@@ -1,0 +1,24 @@
+# Site settings
+title: Professor Clontz
+short-title: Prof. Clontz
+header-img: "img/home-bg.jpg"
+email: sclontz@southalabama.edu
+description: "Assistant Professor of Mathematics at the University of South Alabama"
+baseurl: ""
+url: "http://prof.clontz.org"
+twitter_username: StevenXClontz
+github_username:  StevenClontz
+facebook_username:
+navbar-links:
+  - title: About
+    url:   /about/
+  - title: Classes
+    url:   /classes/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:categories/:year/:month/:day/:title/
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
