@@ -2,7 +2,6 @@
 layout: page
 title: "Classes"
 description: "Information on my courses"
-permalink: /classes/
 ---
 
 ## 2017 Spring

@@ -2,7 +2,6 @@
 layout: page
 title: "Resources"
 description: "Notes and lectures"
-permalink: /resources/
 ---
 
 ## Calculus 2
