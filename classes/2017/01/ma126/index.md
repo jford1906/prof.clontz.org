@@ -4,16 +4,6 @@ title: "MA 126"
 description: "Calculus II - 2017 Spring"
 ---
 
-[usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
-
-[usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
-
-[text]: http://prof.clontz.org/resources/calculus2/
-
-[calendar]: /classes/2017/01/ma126/calendar/
-
-[standards]: /classes/2017/01/ma126/standards/
-
 #### Quick Links
 
 - [Standards][standards]
@@ -208,3 +198,14 @@ The official syllabus for this course is hosted on [USAOnline][usaonline],
 and supercedes the information above. South's
 [Additional Academic Course Policies][usacoursepolicies] also apply to this
 course.
+
+
+[usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
+
+[usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
+
+[text]: http://prof.clontz.org/resources/calculus2/
+
+[calendar]: /classes/2017/01/ma126/calendar/
+
+[standards]: /classes/2017/01/ma126/standards/
