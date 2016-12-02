@@ -2,7 +2,6 @@
 layout: page
 title: "MA 126"
 description: "Calculus II - 2017 Spring"
-permalink: /classes/2017/01/ma126/
 ---
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
