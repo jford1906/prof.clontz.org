@@ -10,8 +10,16 @@ description: "Calculus II - 2017 Spring"
 
 [text]: http://prof.clontz.org/resources/calculus2/
 
-[calendar]: /classes/2017/01/ma126/calendar
+[calendar]: /classes/2017/01/ma126/calendar/
 
+[standards]: /classes/2017/01/ma126/standards/
+
+#### Quick Links
+
+- [Standards][standards]
+- [Calendar][calendar]
+
+---
 
 ## Course Information
 
@@ -110,7 +118,7 @@ The main goal of this course is for students to master the
 Students should also attempt to master as many of the
 **Supplemental Standards** for this course as possible. A list of
 these standards is available on the
-[Standards page](/classes/2017/01/ma126/standards/).
+[Standards page][standards].
 
 A student may demonstrate **mastery** of a Core or Supplemental Standard
 either during a **Standard Assessment** or in office hours.
