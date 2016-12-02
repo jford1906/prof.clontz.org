@@ -123,6 +123,7 @@ either during a **Standard Assessment** or in office hours.
       but clarification or minor corrections are required.
     * **×**: The response does not demonstrate complete understanding of the
       Standard.
+    * **?**: The student was absent.
 * Students may replace a **\*** mark with a **✓** mark by making the appropriate
   clarifications or corrections and showing the revised problem to the
   instructor during office hours. This must be done within one week
@@ -134,6 +135,9 @@ either during a **Standard Assessment** or in office hours.
   per week (for all Standards, not each). The instructor may require
   appointments for such attempts to be made in advance or may require an
   attempt be rescheduled.
+* Students may replace a **?** mark with a **✓** mark as above for a
+  **×** mark, but only if
+  the instructor is provided acceptable documentation excusing the absence.
 
 A Core Standard is considered **Partially Mastered** by a student who has
 received one **✓** mark, and **Mastered** by a student who has received
