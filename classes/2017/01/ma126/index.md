@@ -135,8 +135,8 @@ either during a **Standard Assessment** or in office hours.
   per week (for all Standards, not each). The instructor may require
   appointments for such attempts to be made in advance or may require an
   attempt be rescheduled.
-* Students may replace a **?** mark with a **✓** mark as above for a
-  **×** mark, but only if
+* Students may attempt to replace a **?** mark with a **✓** mark as described
+  above for a **×** mark, but only if
   the instructor is provided acceptable documentation excusing the absence.
 
 A Core Standard is considered **Partially Mastered** by a student who has
@@ -181,9 +181,9 @@ and mastery of the Core and Supplemental Standards as follows.
 Student data will be stored on the instructor's Google Drive provided by
 the University. Students who want electronic access to their personal data
 for this course must sign a Memorandum of Understanding agreeing
-that progress reports
+that progress reports containing their personal data
 may be shared to their Google Drive provided by the University, and that
-student data may also be shared via JagMail. Students who do not sign
+student data may also be communicated via JagMail. Students who do not sign
 this agreement may only access their data by visiting the instructor during
 office hours.
 

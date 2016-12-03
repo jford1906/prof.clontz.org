@@ -8,6 +8,9 @@ description: "Calculus II - 2017 Spring"
 
 ---
 
+The sections below refer to Prof. Clontz's
+[Calculus 2 Resources](/resources/calculus2/).
+
 At the end of the course, each student should be able to...
 
 ## Core Standards
@@ -54,8 +57,19 @@ At the end of the course, each student should be able to...
        (Sections 3.2-3.4)
 * S08: Parametrize planar curves and sketch parametrized curves. (Section 4.1)
 * S09: Use parametric equations to find and use tangent slopes. (Section 4.2)
-* S10: Convert and sketch polar and Cartesian coordinates and equations. (Section 4.3)
-* S11: Use explicit and recursive formulas for sequences. (Section 5.1)
+* S10: Convert and sketch polar and Cartesian coordinates and equations.
+       (Section 4.3)
+* S11: Define and use explicit and recursive formulas for sequences.
+       (Section 5.1)
+* S12: Use the alternating series test to determine series convergence.
+       (Section 5.4)
+* S13: Use the integral test to determine series convergence. (Section 5.5)
+* S14: Use the ratio and root tests to determine series convergence.
+       (Section 5.6)
+* S14: Use the comparison tests to determine series convergence. (Section 5.7)
+* S15: Find a power series converging to a function. (Sections 6.1,6.3)
+* S16: Prove the convergence of a Taylor or Maclaurin Series using Taylor's
+       Formula. (Section 6.4)
 
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
