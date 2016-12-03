@@ -38,6 +38,25 @@ At the end of the course, each student should be able to...
 * C16: Approximate series and power series within appropriate margins of error.
        (Section 6.4)
 
+## Supplemental Standards
+
+* S01: Find derivatives and integrals involving logrithmic and exponential
+       functions. (Section 1.1)
+* S02: Find derivatives and integrals involving hypberbolic functions.
+       (Section 1.2)
+* S03: Integrate products of trigonometric functions. (Section 2.2)
+* S04: Use trigonometric substitution. (Section 2.3)
+* S05: Use partial fractions to integrate rational functions.
+       (Section 2.4)
+* S06: Use cross-sectioning to express a volume as a definite integral.
+       (Section 3.2)
+* S07: Derive a formula for the volume of a three dimensional solid.
+       (Sections 3.2-3.4)
+* S08: Parametrize planar curves and sketch parametrized curves. (Section 4.1)
+* S09: Use parametric equations to find and use tangent slopes. (Section 4.2)
+* S10: Convert and sketch polar and Cartesian coordinates and equations. (Section 4.3)
+* S11: Use explicit and recursive formulas for sequences. (Section 5.1)
+
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
