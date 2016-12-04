@@ -6,6 +6,7 @@ description: "Calculus II - 2017 Spring"
 
 #### Quick Links
 
+- [Lectures and Notes][text]
 - [Standards][standards]
 - [Calendar][calendar]
 
