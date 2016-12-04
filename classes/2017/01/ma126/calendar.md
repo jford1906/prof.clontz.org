@@ -80,7 +80,7 @@ description: "Calculus II - 2017 Spring"
     - **Standard Assessment**
 
 
-# Week 7
+## Week 7
 
 * Mon Feb 20
     - *Sections 3.3-3.4*
@@ -92,13 +92,101 @@ description: "Calculus II - 2017 Spring"
     - *Section 3.5*
 
 
-# Week 8
+## Week 8
 
 * Mon Feb 27
     - Continue Section 3.5
 * Wed Mar 1
-    - *Section 4.1*
+    - *Sections 4.1-4.2*
 * Thu Mar 2
-    - Continue Section 4.1
+    - Continue Sections 4.1-4.2
 * Fri Mar 3
     - **Standard Assessment**
+
+
+## Week 9
+
+* Mon Mar 6
+    - Continue Sections 4.1-4.2
+* Wed Mar 8
+    - *Sections 4.3-4.4*
+* Thu Mar 9
+    - Continue Sections 4.3-4.4
+* Fri Mar 10
+    - Continue Sections 4.3-4.4
+
+
+### Spring Break
+
+* March 13-17
+
+
+## Week 10
+
+* Mon Mar 20
+    - *Sections 5.1-5.2*
+* Wed Mar 22
+    - Continue Sections 5.1-5.2
+* Thu Mar 23
+    - Continue Sections 5.1-5.2
+* Fri Mar 24
+    - **Standard Assessment**
+
+
+## Week 11
+
+* Mon Mar 27
+    - *Sections 5.3-5.4*
+* Wed Mar 29
+    - Continue Sections 5.3-5.4
+* Thu Mar 30
+    - Continue Sections 5.3-5.4
+* Fri Mar 31
+    - *Section 5.5*
+
+
+## Week 12
+
+* Mon Apr 3
+    - Continue Section 5.5
+* Wed Apr 5
+    - *Section 5.6*
+* Thu Apr 6
+    - Continue Section 5.6
+* Fri Apr 7
+    - **Standard Assessment**
+
+
+## Week 13
+
+* Mon Apr 10
+    - *Section 5.7*
+* Wed Apr 12
+    - Continue Section 5.7
+* Thu Apr 13
+    - *Section 5.8*
+* Fri Apr 14
+    - Continue Section 5.8
+
+
+## Week 14
+
+* Mon Apr 17
+    - *Section 6.1*
+* Wed Apr 19
+    - Continue Section 6.1
+* Thu Apr 20
+    - *Section 6.2*
+* Fri Apr 21
+    - **Standard Assessment**
+
+## Week 15
+
+* Mon Apr 24
+    - Continue Section 6.2
+* Wed Apr 26
+    - *Sections 6.3-6.4*
+* Thu Apr 27
+    - Continue Sections 6.3-6.4
+* Fri Apr 28
+    - Continue Sections 6.3-6.4
