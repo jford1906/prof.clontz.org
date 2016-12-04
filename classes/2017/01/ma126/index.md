@@ -95,8 +95,8 @@ The results of the final PES (given during the last two weeks of class)
 will be used by the instructor to assign a grade
 between 50% and 100%, where 50% represents consistently poor peer reviews,
 85% represents average peer reviews, and 100% represents consistently excellent
-peer reviews. Students who fail to respond to a PES by the deadline will have
-20% deducted from this grade.
+peer reviews. Each time a student fails to complete a PES by the given
+deadline, this grade is reduced by 20%.
 
 Each student's **Participation Grade** is the average of their percentage of IRQ
 points earned, their Team's percentage of TRQ points earned, and their grade
