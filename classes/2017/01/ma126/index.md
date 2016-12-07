@@ -149,7 +149,10 @@ All marks are considered final as of the last scheduled day of classes for
 the semester, with one exception. A **Final Standard Assessment** will be given
 during the university's scheduled Final Exam period for the course. This
 final Assessment will cover every Core Standard and Supplemental Standard
-from the last four weeks of class.
+from the last four weeks of class. Students who have already Mastered
+80% of the Core and Supplemental Standards as of the penultimate Standard
+Assessment will be given the opportunity to demonstrate mastery of the material
+to be covered on the Final Standard Assessment during office hours.
 
 
 
