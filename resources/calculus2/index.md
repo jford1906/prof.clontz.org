@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Calculus 2"
+header-img: "/assets/img/cal2-bg.png"
 description: "Notes, lectures, and exercises"
 ---
 

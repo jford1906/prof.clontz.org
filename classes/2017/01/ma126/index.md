@@ -18,15 +18,15 @@ description: "Calculus II - 2017 Spring"
 * Title: Calculus II
 * Section:
     * MA 126-102
-* Room:
-    * ILB 430 (MWF)
-    * ILB 360 (R)
 * Times:
-    * MWF 9:05am-9:55am
-    * R 9:30am-10:20am
-* Office Hours:
-    * MWF 9:55am-10:55am
-    * TR 3:15pm-4:45pm
+    * Mon/Wed/Fri 9:05am-9:55am
+    * Thu 9:30am-10:20am
+* Room:
+    * Mon/Wed/Thu in CB 160 (TeamUSA classroom)
+    * Fri in ILB 430 (Math/Physics building)
+* Office Hours in ILB 314
+    * Mon/Wed/Fri 9:55am-10:55am
+    * Tue/Thu 3:15pm-4:45pm
 
 
 ## Course Description
@@ -37,7 +37,7 @@ for computing and applying integrals, the ultimate goal of the course is
 to introduce the *power series*, an "infinite polynomial" which can be used
 to express a wide class of differentiable functions.
 
-This course uses elements of **Team Based Learning**. Students will
+This course uses elements of **Team-Based Learning**. Students will
 complete a survey that will place them into appropriate Teams.
 Teams will work together throughout the semester to master the course
 material, with the support of the instructor.
@@ -48,11 +48,12 @@ material, with the support of the instructor.
 All material for this course is available at no cost at
 [prof.clontz.org/resources/calculus-2][text]. Students are welcome to use
 *University Calculus: Early Transcendentals (3rd Ed)* or any other textbook
-as a supplemental resource, but it is not required.
+as a supplemental resource, but it is not required and no homework from
+this text will be assigned.
 
-Students must bring an internet-enabled device to every class, such as a tablet
-or smartphone. This device will be used to access the provided online
-resources, but cannot be used during Quizzes or Assessments.
+Teams will have access to computer stations in the TeamUSA Classroom,
+but will need to print materials or bring an internet-enabled device for
+use in class on Fridays in ILB.
 
 
 ## Team Formation
@@ -71,9 +72,9 @@ in class will be assessed through three mechanisms.
 
 Students will be given an **Individual Readiness Quiz** of multiple-choice
 questions to check their understanding
-of the online lectures. Responses to these IRQs are accumulated at the end of the
-semester, with correct responses worth 4 points, and all other responses worth
-2 points.
+of the online lectures. Responses to these IRQs are accumulated at the end of
+the semester, with correct responses worth 4 points, and all other responses
+worth 2 points.
 
 Immediately following the IRQ (before solutions are revealed),
 each Team will come together to take an
@@ -101,6 +102,7 @@ deadline, this grade is reduced by 20%.
 Each student's **Participation Grade** is the average of their percentage of IRQ
 points earned, their Team's percentage of TRQ points earned, and their grade
 earned from the PES.
+
 
 ## Standards
 
@@ -150,9 +152,10 @@ the semester, with one exception. A **Final Standard Assessment** will be given
 during the university's scheduled Final Exam period for the course. This
 final Assessment will cover every Core Standard and Supplemental Standard
 from the last four weeks of class. Students who have already Mastered
-80% of the Core and Supplemental Standards as of the penultimate Standard
-Assessment will be given the opportunity to demonstrate mastery of the material
-to be covered on the Final Standard Assessment during office hours.
+13/16 of the Core and Supplemental Standards as of the penultimate Standard
+Assessment will be given the opportunity to demonstrate mastery of the
+new Core Standards from the Final Standard Assessment during the last
+week of class in office hours.
 
 
 
@@ -162,29 +165,29 @@ Grades in this course are determined based on participation
 and mastery of the Core and Supplemental Standards as follows.
 
 * **A**:
-    * At least 90% of Core Standards are Partially Mastered or Mastered
-    * At least 80% of Core Standards are Mastered
-    * At least 80% of Supplemental Standards are Mastered
+    * 16/16 of Core Standards are Partially Mastered or Mastered
+    * At least 13/16 of Core Standards are Mastered
+    * At least 13/16 of Supplemental Standards are Mastered
     * Participation Grade is at least 80%
 * **B**:
-    * At least 80% of Core Standards are Partially Mastered or Mastered
-    * At least 60% of Core Standards are Mastered
-    * At least 60% of Supplemental Standards are Mastered
+    * At least 14/16 of Core Standards are Partially Mastered or Mastered
+    * At least 10/16 of Core Standards are Mastered
+    * At least 10/16 of Supplemental Standards are Mastered
     * Participation Grade is at least 70%
 * **C**:
-    * At least 70% of Core Standards are Partially Mastered or Mastered
-    * At least 40% of Core Standards are Mastered
-    * At least 40% of Supplemental Standards are Mastered
+    * At least 12/16 of Core Standards are Partially Mastered or Mastered
+    * At least 8/16 of Core Standards are Mastered
+    * At least 8/16 of Supplemental Standards are Mastered
     * Participation Grade is at least 60%
 * **D**:
-    * At least 60% of Core Standards are Partially Mastered or Mastered
+    * At least 10/16 of Core Standards are Partially Mastered or Mastered
 
 
 ## Student Data
 
 Student data will be stored on the instructor's Google Drive provided by
 the University. Students who want electronic access to their personal data
-for this course must sign a Memorandum of Understanding agreeing
+for this course must sign a [Memorandum of Understanding][memo] agreeing
 that progress reports containing their personal data
 may be shared to their Google Drive provided by the University, and that
 student data may also be communicated via JagMail. Students who do not sign
@@ -202,18 +205,21 @@ more information.
 
 ## Syllabus
 
-The official syllabus for this course is hosted on [USAOnline][usaonline],
-and supercedes the information above. South's
+The official syllabus for this course is hosted on [USAOnline][usaonline].
+South's
 [Additional Academic Course Policies][usacoursepolicies] also apply to this
-course.
+course. Students are asked to sign a [Memorandum of Understanding][memo]
+acknowledging that they have read and understood these policies.
 
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
 [usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
-[text]: http://prof.clontz.org/resources/calculus2/
+[text]: /resources/calculus2/
 
 [calendar]: /classes/2017/01/ma126/calendar/
 
 [standards]: /classes/2017/01/ma126/standards/
+
+[memo]: https://goo.gl/forms/eTJAPzwyLhVRsBcF3
