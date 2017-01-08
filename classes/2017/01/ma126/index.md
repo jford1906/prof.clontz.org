@@ -22,8 +22,8 @@ description: "Calculus II - 2017 Spring"
     * Mon/Wed/Fri 9:05am-9:55am
     * Thu 9:30am-10:20am
 * Room:
-    * Mon/Wed/Thu in CB 160 (TeamUSA classroom)
-    * Fri in ILB 430 (Math/Physics building)
+    * Mon/Wed/Fri in ILB 430
+    * Thu in ILB 360
 * Office Hours in ILB 314
     * Mon/Wed/Fri 9:55am-10:55am
     * Tue/Thu 3:15pm-4:45pm
@@ -37,9 +37,11 @@ for computing and applying integrals, the ultimate goal of the course is
 to introduce the *power series*, an "infinite polynomial" which can be used
 to express a wide class of differentiable functions.
 
-This course uses elements of **Team-Based Learning**. Students will
-complete a survey that will place them into appropriate Teams.
-Teams will work together throughout the semester to master the course
+This course uses elements of a flipped classroom and team-based learning.
+Students will
+complete a survey that will place them into appropriate Teams at the
+start of the semester, and watch online lectures to introduce the material.
+Teams will work together throughout the semester to master this
 material, with the support of the instructor.
 
 
@@ -51,16 +53,18 @@ All material for this course is available at no cost at
 as a supplemental resource, but it is not required and no homework from
 this text will be assigned.
 
-Teams will have access to computer stations in the TeamUSA Classroom,
-but will need to print materials or bring an internet-enabled device for
-use in class on Fridays in ILB.
+Classwork will be shown on a projector, but students may wish to print
+the classwork from the website to bring to class, or bring a
+phone/tablet/laptop to pull up materials during class.
 
 
 ## Team Formation
 
-Teams of 5-6 students will be formed using based upon a survey.
+Teams of 5-6 students will be formed using based upon an online survey.
 These Teams will collaborate throughout the semester, working together to
-master the course material.
+master the course material. Failure by a student
+to complete this survey will result
+in a deduction in that student's Participation Grade.
 
 
 ## Participation
@@ -96,8 +100,9 @@ The results of the final PES (given during the last two weeks of class)
 will be used by the instructor to assign a grade
 between 50% and 100%, where 50% represents consistently poor peer reviews,
 85% represents average peer reviews, and 100% represents consistently excellent
-peer reviews. Each time a student fails to complete a PES by the given
-deadline, this grade is reduced by 20%.
+peer reviews. Failure by a student
+to complete a PES will result in a deduction in that
+student's Participation Grade.
 
 Each student's **Participation Grade** is the average of their percentage of IRQ
 points earned, their Team's percentage of TRQ points earned, and their grade
