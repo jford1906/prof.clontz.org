@@ -30,7 +30,7 @@ description: "Notes, lectures, and exercises"
 - [3.5 Work](3/5/)
 
 
-## Chapter 4: Parametric Equations and Polar Coordiantes
+## Chapter 4: Parametric Equations and Polar Coordinates
 
 - [4.1 Planar Parametrizations](4/1/)
 - [4.2 Applications of Parametrizations](4/2/)
