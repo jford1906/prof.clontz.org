@@ -47,7 +47,7 @@ description: "Notes, lectures, and exercises"
 - [5.5 The Integral Test and p-Series](5/5/)
 - [5.6 Ratio and Root Tests](5/6/)
 - [5.7 Comparison Tests](5/7/)
-- [5.8 Strategies for Inspecting Series](5/8/)
+- [5.8 Strategies to Determine Series Convergence](5/8/)
 
 
 ## Chapter 6: Power Series
