@@ -27,6 +27,8 @@ description: "Calculus II - 2017 Spring"
 * Office Hours in ILB 314
     * Mon/Wed/Fri 9:55am-10:55am
     * Tue/Thu 3:15pm-4:45pm
+        * (May be a few minutes late on Tue/Thu since I teach in HUMB
+          at 2pm.)
 
 
 ## Course Description
@@ -148,19 +150,27 @@ either during a **Standard Assessment** or in office hours.
   the instructor is provided acceptable documentation excusing the absence.
 
 A Core Standard is considered **Partially Mastered** by a student who has
-received one **✓** mark, and **Mastered** by a student who has received
-two **✓** marks. A Supplemental Standard is considered Mastered by a
-student who has received one **✓** mark.
+received **one ✓** mark, and **Mastered** by a student who has received
+**two ✓** marks.
+Each Core Standard will appear three times on the written
+Standard Assessments.
+
+A Supplemental Standard is considered **Mastered** by a
+student who has received **one ✓** mark.
+Each Supplemental Standard will appear two times on the written Standard
+Assessments.
+
+Students who have Mastered 13/16 of the Core and Supplemental Standards
+will be given the opportunity to demonstrate mastery of the remaining three
+Core Standards in office hours, include those standards that haven't appeared
+yet on a Standard Assessment.
 
 All marks are considered final as of the last scheduled day of classes for
 the semester, with one exception. A **Final Standard Assessment** will be given
-during the university's scheduled Final Exam period for the course. This
-final Assessment will cover every Core Standard and Supplemental Standard
-from the last four weeks of class. Students who have already Mastered
-13/16 of the Core and Supplemental Standards as of the penultimate Standard
-Assessment will be given the opportunity to demonstrate mastery of the
-new Core Standards from the Final Standard Assessment during the last
-week of class in office hours.
+during the university's scheduled Final Exam period for the course.
+Only **✓** and **×** marks will be given on this final assessment, and these
+marks are final.
+
 
 
 
@@ -168,6 +178,7 @@ week of class in office hours.
 
 Grades in this course are determined based on participation
 and mastery of the Core and Supplemental Standards as follows.
+All criteria must be met by a student to receive each grade.
 
 * **A**:
     * 16/16 of Core Standards are Partially Mastered or Mastered
