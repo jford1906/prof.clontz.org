@@ -26,9 +26,9 @@ description: "Calculus II - 2017 Spring"
     * Thu in ILB 360
 * Office Hours in ILB 314
     * Mon/Wed/Fri 9:55am-10:55am
-    * Tue/Thu 3:15pm-4:45pm
-        * (May be a few minutes late on Tue/Thu since I teach in HUMB
-          at 2pm.)
+    * Tue 3:15pm-4:45pm
+        * (May be a few minutes late I teach in HUMB at 2pm.)
+    * Thu 10:20am-11:50am
 
 
 ## Course Description
