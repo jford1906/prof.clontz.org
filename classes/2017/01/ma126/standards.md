@@ -71,6 +71,9 @@ At the end of the course, each student should be able to...
 * S16: Prove the convergence of a Taylor or Maclaurin Series using Taylor's
        Formula. (Section 6.4)
 
+## Standard Assessment Solutions
+
+* [SA1](/classes/2017/01/ma126/pdf/sa1sol.pdf)
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
