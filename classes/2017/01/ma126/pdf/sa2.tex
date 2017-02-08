@@ -1,0 +1,215 @@
+\documentclass[12pt]{article}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\newcommand{\assessmentTitle}{
+  Standard Assessment 2
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0pt}% Default \footrulewidth is 0pt
+\chead{\footnotesize\bf\assessmentTitle}
+\cfoot{\small Page \thepage}
+
+\newcommand{\makeHeader}[4]{
+\thispagestyle{empty}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+#1 | #2 | #3 | #4
+}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{
+  Name:\enspace\hrulefill\hrulefill\hrulefill
+}
+}
+
+\usepackage{xcolor}
+
+\newcommand{\standardQuestion}[2]{
+\newpage
+\begin{center}
+  \begin{tabular}{|l|c|}
+  \hline
+    \parbox{5in}{
+      \textbf{#1}: This student is able to...\\
+      #2
+    }
+  &
+    \parbox{1in}{
+      \vspace{0.1in}
+      \footnotesize \textcolor{gray}{Mark:}
+      \vspace{0.7in}
+
+      \tiny \textcolor{gray}{(Instructor Use Only)}
+    }
+  \\\hline
+  \end{tabular}
+\end{center}
+}
+
+\newcommand{\csch}{\operatorname{csch}}
+\newcommand{\sech}{\operatorname{sech}}
+
+
+
+\begin{document}
+
+\makeHeader{
+MA 126 }{ Spring 2017 }{ Prof. Clontz }{ \assessmentTitle
+}
+
+\begin{itemize}
+  \item Each question is prefaced with a Standard for this course.
+  \item When grading, each response will be marked as follows:
+  \begin{itemize}
+    \item \(\checkmark\):
+      The response is demonstrates complete understanding of the Standard.
+    \item \(\star\):
+      The response may indicate full understanding of the Standard, but
+      clarification or minor corrections are required.
+    \item \(\times\):
+      The response does not demonstrate complete understanding of the Standard.
+  \end{itemize}
+  \item Only responses marked with a \(\checkmark\) mark count toward your
+    grade for the semester.
+    Visit the course website for more information on how to improve
+    \(\star\) and \(\times\) marks.
+  \item This Assessment is due after 50 minutes. All blank responses will
+    be marked with \(\times\).
+\end{itemize}
+
+
+
+
+
+\standardQuestion{C01}{
+  Derive properties of the logarithmic and exponential functions from their definitions.
+}
+
+Show that \(5^2=25\) follows from the definition \(a^x = \exp(x\ln(a))\).
+(Hint: Use the fact that \(\ln(z)+\ln(z)=\ln(z\times z)\).)
+
+
+
+
+
+\standardQuestion{C02}{
+  Prove hyperbolic function identities.
+}
+
+Use the definition
+\[
+  % \sinh(x) = \frac{e^x-e^{-x}}{2},
+  \cosh(x) = \frac{e^x+e^{-x}}{2}
+\]
+to prove the following identity.
+\[
+  \cosh(2x) = 2\cosh^2(x)-1
+\]
+
+
+
+\standardQuestion{C03}{
+  Use integration by substitution.
+}
+
+Show that \(\int_2^3 x\sqrt{x-2}\,dx=\frac{26}{15}\).
+
+
+
+
+\standardQuestion{S01}{
+  Find derivatives and integrals involving logrithmic and exponential functions.
+}
+
+a) Find \(\frac{d}{dz}[\ln(3e^z)]\).
+
+\vfill
+
+b) Find \(\displaystyle\int\left(2e+\frac{3}{y}\right)\,dy\).
+
+\vfill
+
+
+
+\standardQuestion{S02}{
+  Find derivatives and integrals involving hypberbolic functions.
+}
+
+a) Find \(\frac{d}{dv}[4\tanh(3v)-\sinh(v^2)]\).
+
+\vfill
+
+b) Find \(\displaystyle\int(\cosh(x)+2\sinh(x))\,dx\).
+
+\vfill
+
+
+
+\standardQuestion{S03}{
+  Integrate products of trigonometric functions.
+}
+
+Find \(\int\sin^3(\theta)\cos^3(\theta)\,d\theta\).
+
+
+
+\standardQuestion{S04}{
+  Use trigonometric substitution.
+}
+
+Find \(\int\frac{2}{1+4x^2}\,dx\).
+
+
+
+
+\standardQuestion{S05}{
+  Use partial fractions to integrate rational functions.
+}
+
+a) Complete the following partial fraction expansion:
+
+\[
+  \frac{f(x)}{(x+3)^3(x^2+7)^2}
+    =
+  \frac{A}{\hspace{3em}}
+    +
+  \frac{B}{\hspace{3em}}
+    +
+  \frac{C}{\hspace{3em}}
+    +
+  \frac{Dx+E}{\hspace{3em}}
+    +
+  \frac{Fx+G}{\hspace{3em}}
+\]
+
+\vspace{1em}
+
+(Assume the degree of \(f\) is less than \(7\).
+You do NOT need to solve for \(A\) through \(G\).)
+
+\vspace{1em}
+
+b) Find \(\int\frac{8x^2-6x+14}{(x-1)(x^2+7)}\,dx\).
+
+\vfill
+
+
+
+
+
+
+
+\newpage
+
+\textcolor{gray}{Use this space if you need extra room for a problem:}
+
+\end{document}
