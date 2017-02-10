@@ -71,11 +71,11 @@ description: "Calculus II - 2017 Spring"
 ## Week 6
 
 * Mon Feb 13
-    - *Sections 3.1-3.2*
+    - *Section 3.1* <http://prof.clontz.org/resources/calculus2/3/1/>
 * Wed Feb 15
-    - Continue Sections 3.1-3.2
+    - *Section 3.2* <http://prof.clontz.org/resources/calculus2/3/2/>
 * Thu Feb 16
-    - Continue Sections 3.1-3.2
+    - *Section 3.3* <http://prof.clontz.org/resources/calculus2/3/3/>
 * Fri Feb 17
     - **Standard Assessment**
 
@@ -83,13 +83,13 @@ description: "Calculus II - 2017 Spring"
 ## Week 7
 
 * Mon Feb 20
-    - *Sections 3.3-3.4*
+    - Continue Section 3.3
 * Wed Feb 22
-    - Continue Sections 3.3-3.4
+    - *Section 3.4* <http://prof.clontz.org/resources/calculus2/3/4/>
 * Thu Feb 23
-    - Continue Sections 3.3-3.4
+    - Continue Section 3.4
 * Fri Feb 24
-    - *Section 3.5*
+    - *Section 3.5* <http://prof.clontz.org/resources/calculus2/3/5/>
 
 
 ## Week 8
