@@ -66,9 +66,9 @@ At the end of the course, each student should be able to...
 * S13: Use the integral test to determine series convergence. (Section 5.5)
 * S14: Use the ratio and root tests to determine series convergence.
        (Section 5.6)
-* S14: Use the comparison tests to determine series convergence. (Section 5.7)
-* S15: Find a power series converging to a function. (Sections 6.1,6.3)
-* S16: Prove the convergence of a Taylor or Maclaurin Series using Taylor's
+* S15: Use the comparison tests to determine series convergence. (Section 5.7)
+* S16: Find a power series converging to a function. (Sections 6.1,6.3)
+* S17: Prove the convergence of a Taylor or Maclaurin Series using Taylor's
        Formula. (Section 6.4)
 
 ## Standard Assessment Solutions

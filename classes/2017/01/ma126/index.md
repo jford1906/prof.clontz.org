@@ -182,17 +182,17 @@ All criteria must be met by a student to receive each grade.
 * **A**:
     * 16/16 of Core Standards are Partially Mastered or Mastered
     * At least 13/16 of Core Standards are Mastered
-    * At least 13/16 of Supplemental Standards are Mastered
+    * At least 13/17 of Supplemental Standards are Mastered
     * Participation Grade is at least 80%
 * **B**:
     * At least 14/16 of Core Standards are Partially Mastered or Mastered
     * At least 10/16 of Core Standards are Mastered
-    * At least 10/16 of Supplemental Standards are Mastered
+    * At least 10/17 of Supplemental Standards are Mastered
     * Participation Grade is at least 70%
 * **C**:
     * At least 12/16 of Core Standards are Partially Mastered or Mastered
     * At least 8/16 of Core Standards are Mastered
-    * At least 8/16 of Supplemental Standards are Mastered
+    * At least 8/17 of Supplemental Standards are Mastered
     * Participation Grade is at least 60%
 * **D**:
     * At least 10/16 of Core Standards are Partially Mastered or Mastered
