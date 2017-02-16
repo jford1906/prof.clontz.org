@@ -74,6 +74,7 @@ At the end of the course, each student should be able to...
 ## Standard Assessment Solutions
 
 * [SA1](/classes/2017/01/ma126/pdf/sa1sol.pdf)
+* [SA2](/classes/2017/01/ma126/pdf/sa2sol.pdf)
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
