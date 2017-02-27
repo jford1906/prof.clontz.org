@@ -17,8 +17,11 @@ At the end of the course, each student should be able to...
 
 * C01: Derive properties of the logarithmic and exponential functions from their
        definitions. (Section 1.1)
+    - Deadline: March 31
 * C02: Prove hyperbolic function identities. (Section 1.2)
+    - Deadline: March 31
 * C03: Use integration by substitution. (Section 2.1)
+    - Deadline: Apr 14
 * C04: Use integration by parts. (Section 2.5)
 * C05: Identify and use appropriate integration techniques. (Section 2.6)
 * C06: Express an area between curves as a definite integral. (Section 3.1)
@@ -45,14 +48,20 @@ At the end of the course, each student should be able to...
 
 * S01: Find derivatives and integrals involving logrithmic and exponential
        functions. (Section 1.1)
+    - Deadline: March 22
 * S02: Find derivatives and integrals involving hypberbolic functions.
        (Section 1.2)
+    - Deadline: March 22
 * S03: Integrate products of trigonometric functions. (Section 2.2)
+    - Deadline: March 31
 * S04: Use trigonometric substitution. (Section 2.3)
+    - Deadline: March 31
 * S05: Use partial fractions to integrate rational functions.
        (Section 2.4)
+    - Deadline: March 31
 * S06: Use cross-sectioning to express a volume as a definite integral.
        (Section 3.2)
+    - Deadline: Apr 14
 * S07: Derive a formula for the volume of a three dimensional solid.
        (Sections 3.2-3.4)
 * S08: Parametrize planar curves and sketch parametrized curves. (Section 4.1)
