@@ -43,7 +43,7 @@ description: "Notes, lectures, and exercises"
 - [5.1 Sequences](5/1/)
 - [5.2 Computing Limits of Sequences](5/2/)
 - [5.3 Series](5/3/)
-- [5.4 Alternating Series](5/4/)
+- [5.4 Geometric and Alternating Series](5/4/)
 - [5.5 The Integral Test and p-Series](5/5/)
 - [5.6 Ratio and Root Tests](5/6/)
 - [5.7 Comparison Tests](5/7/)
