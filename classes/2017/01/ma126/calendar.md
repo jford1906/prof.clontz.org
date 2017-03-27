@@ -138,9 +138,9 @@ description: "Calculus II - 2017 Spring"
 * Mon Mar 27
     - [Section 5.3](/resources/calculus2/5/3/)
 * Wed Mar 29
-    - [Section 5.4](/resources/calculus2/5/4/)
+    - Continue Section 5.3
 * Thu Mar 30
-    - Continue Section 5.4
+    - [Section 5.4](/resources/calculus2/5/4/)
 * Fri Mar 31
     - [Section 5.5](/resources/calculus2/5/5/)
 
