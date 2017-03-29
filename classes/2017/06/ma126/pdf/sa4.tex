@@ -1,0 +1,346 @@
+\documentclass[12pt]{article}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\usepackage{multicol}
+
+\newcommand{\assessmentTitle}{
+  Standard Assessment 4
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0pt}% Default \footrulewidth is 0pt
+\chead{\footnotesize\bf\assessmentTitle}
+\cfoot{\small Page \thepage}
+
+\newcommand{\makeHeader}[4]{
+\thispagestyle{empty}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+#1 | #2 | #3 | #4
+}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{
+  Name:\enspace\hrulefill\hrulefill\hrulefill
+}
+}
+
+\usepackage{xcolor}
+
+\newcommand{\standardQuestion}[2]{
+\newpage
+\begin{center}
+  \begin{tabular}{|l|c|c|}
+  \hline
+    \parbox{4in}{
+      \textbf{#1}: This student is able to...\\
+      #2
+    }
+  &
+    \parbox{1in}{
+      \vspace{0.1in}
+      \footnotesize \textcolor{gray}{Mark:}
+      \vspace{0.7in}
+
+      \tiny \textcolor{gray}{(Instructor Use Only)}
+    }
+  &
+    \parbox{1in}{
+      \vspace{0.1in}
+      \footnotesize \textcolor{gray}{Reattempt/ Correction:}
+      \vspace{0.53in}
+
+      \tiny \textcolor{gray}{(Instructor Use Only)}
+    }
+  \\\hline
+  \end{tabular}
+\end{center}
+}
+
+\newcommand{\csch}{\operatorname{csch}}
+\newcommand{\sech}{\operatorname{sech}}
+
+
+
+\begin{document}
+
+\makeHeader{
+MA 126 }{ Spring 2017 }{ Prof. Clontz }{ \assessmentTitle
+}
+
+\begin{itemize}
+  \item Each question is prefaced with a Standard for this course.
+  \item When grading, each response will be marked as follows:
+  \begin{itemize}
+    \item \(\checkmark\):
+      The response is demonstrates complete understanding of the Standard.
+    \item \(\star\):
+      The response may indicate full understanding of the Standard, but
+      clarification or minor corrections are required.
+    \item \(\times\):
+      The response does not demonstrate complete understanding of the Standard.
+  \end{itemize}
+  \item Only responses marked with a \(\checkmark\) mark count toward your
+    grade for the semester.
+    Visit the course website for more information on how to improve
+    \(\star\) and \(\times\) marks.
+  \item This Assessment is due after 50 minutes. All blank responses will
+    be marked with \(\times\).
+\end{itemize}
+
+
+
+
+
+% \standardQuestion{C01}{
+%   Derive properties of the logarithmic and exponential functions from their definitions.
+% }
+%
+% Let \(f^\leftarrow\) denote the inverse function of an invertable function
+% \(f\); in particular, if \(f(x)=\ln(x)\), then \(f^\leftarrow(x)=\exp(x)\).
+%
+% Use the theorem
+% \(\frac{d}{dx}[f^\leftarrow(x)]=\frac{1}{f'(f^\leftarrow(x))}\) to prove that
+% \(\frac{d}{dx}[\exp x]=\exp x\).
+%
+%
+%
+%
+%
+% \standardQuestion{C02}{
+%   Prove hyperbolic function identities.
+% }
+%
+% Use the definitions
+% \[
+%   \tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}},
+%   \sech(x) = \frac{2}{e^x+e^{-x}}
+% \]
+% to prove the following identity.
+% \[
+%   1-\tanh^2(x)=\sech^2(x)
+% \]
+
+
+
+\standardQuestion{C03}{
+  Use integration by substitution.
+}
+
+Find \(\displaystyle\int \frac{6x^2+14}{x^3+7x-3}\,dx\).
+
+
+
+\standardQuestion{C04}{
+  Use integration by parts.
+}
+
+Find \(\int 8e^y\sin(y)\,dy\).
+
+
+
+\standardQuestion{C05}{
+  Identify and use appropriate integration techniques.
+}
+
+Draw lines matching each of the five integrals on the left with
+the most appropriate integration technique listed on the right.
+Multiple techniques may be technically possible, but choose the technique most
+useful to begin integration. Every integral and technique is used exactly
+once in the correct answer.
+
+\vspace{1em}
+
+\begin{multicols}{2}
+  \begin{itemize}
+    \item[] \(\displaystyle\int \sin^3(x)\cos^4(x)\,dx\)
+    \item[] \(\displaystyle\int \sqrt{4-x^2}\,dx\)
+    \item[] \(\displaystyle\int x\ln(x)\,dx\)
+    \item[] \(\displaystyle\int 5x(3x^2-8)^9\,dx\)
+    \item[] \(\displaystyle\int \frac{2x+7}{(x^2+1)(x-1)}\,dx\)
+  \end{itemize}
+  \columnbreak
+  \begin{itemize}
+    \item Integration by Substiution
+    \item Method of Partial Fractions
+    \item Trigonometric Identities
+    \item Trigonometric Substitution
+    \item Integration by Parts
+  \end{itemize}
+\end{multicols}
+
+
+
+\standardQuestion{C06}{
+  Express an area between curves as a definite integral.
+}
+
+Find a definite integral equal to the area between the curves
+\(y=2\), \(x=0\), and \(x=y^2\). (Do not solve your integral.)
+
+
+
+\standardQuestion{C07}{
+  Use the washer or cylindrical shell method to express a volume of
+  revolution as a definite integral.
+}
+
+Find a definite integral equal to the volume of
+the solid of revolution obtained by rotating
+the triangle with vertices \((1,1)\), \((2,0)\), and \((3,1)\)
+around the axis \(x=1\). (Do not solve your integral.)
+
+
+
+
+\standardQuestion{C08}{
+  Express the work done in a system as a definite integral.
+}
+
+Find a definite integral equal to the work (in kilojoules) required to
+pump the contents of a cylindrical tank with a radius of \(2\)
+meters and a total height of \(8\) meters to its top, assuming it is initially
+half-full of salt water that weighs \(10\) kilonetwons per square meter.
+(Do not solve your integral.)
+
+
+
+
+
+% \standardQuestion{S01}{
+%   Find derivatives and integrals involving logrithmic and exponential functions.
+% }
+%
+% a) Find \(\frac{d}{dz}[\ln(3e^z)]\).
+%
+% \vfill
+%
+% b) Find \(\displaystyle\int\left(2e+\frac{3}{y}\right)\,dy\).
+%
+% \vfill
+%
+%
+%
+% \standardQuestion{S02}{
+%   Find derivatives and integrals involving hypberbolic functions.
+% }
+%
+% a) Find \(\frac{d}{dv}[4\tanh(3v)-\sinh(v^2)]\).
+%
+% \vfill
+%
+% b) Find \(\displaystyle\int(\cosh(x)+2\sinh(x))\,dx\).
+%
+% \vfill
+
+
+
+% \standardQuestion{S03}{
+%   Integrate products of trigonometric functions.
+% }
+%
+% Find \(\int2\cos^2(y)\,dy\).
+%
+%
+%
+% \standardQuestion{S04}{
+%   Use trigonometric substitution.
+% }
+%
+% Find \(\displaystyle\int\frac{z+1}{\sqrt{1-z^2}}\,dz\).
+%
+%
+%
+%
+% \standardQuestion{S05}{
+%   Use partial fractions to integrate rational functions.
+% }
+%
+% a) Complete the following partial fraction expansion:
+%
+% \[
+%   \frac{f(x)}{(x^2+3)^2(x-7)^4}
+%     =
+%   \frac{\hspace{3em}}{x^2+3}
+%     +
+%   \frac{\hspace{3em}}{(x^2+3)^2}
+%     +
+%   \frac{\hspace{3em}}{x-7}
+%     +
+%   \frac{\hspace{3em}}{(x-7)^2}
+%     +
+%   \frac{\hspace{3em}}{(x-7)^3}
+%     +
+%   \frac{\hspace{3em}}{(x-7)^4}
+% \]
+%
+% \vspace{1em}
+%
+% (Assume the degree of \(f\) is less than \(8\).
+% You do NOT need to solve for your constants.)
+%
+% \vspace{1em}
+%
+% b) Find \(\displaystyle\int\frac{3x^2-x+2}{(x^2+1)(x-1)}\,dx\).
+%
+% \vfill
+
+
+
+
+\standardQuestion{S06}{
+  Use cross-sectioning to express a volume as a definite integral.
+}
+
+Find a definite integral that equals the volume of a solid whose base
+is the triangle with vertices \((0,0)\), \((1,2)\), and \((1,-2)\),
+and whose cross-sections perpindicular to the \(x\)-axis are semicircles
+with diameters on the \(xy\) plane. (Do not solve your integral.)
+
+
+
+
+\standardQuestion{S07}{
+  Derive a formula for the volume of a three dimensional solid.
+}
+
+Prove that the volume of a hemisphere (half-sphere) with radius
+\(R\) is given by \(V=\frac{2}{3}\pi R^3\).
+
+
+
+
+
+\standardQuestion{S08}{
+  Parametrize planar curves and sketch parametrized curves.
+}
+
+a) Give a parameterization of the parabola \(y=x^2\) from \((-1,1)\)
+   to \((3,9)\).
+
+\vfill
+
+b) Sketch the curve parameterized by \(x=2\sin\theta\), \(y=2\cos\theta\) for
+   \(0\leq\theta\leq\pi\).
+
+\vfill
+
+
+
+
+
+
+
+\newpage
+
+\textcolor{gray}{Use this space if you need extra room for a problem:}
+
+\end{document}

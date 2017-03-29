@@ -1,0 +1,283 @@
+\documentclass[12pt]{article}
+
+\usepackage[letterpaper,margin=1in]{geometry}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\usepackage{multicol}
+
+\newcommand{\assessmentTitle}{
+  Standard Assessment 3
+}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}% Default \headrulewidth is 0.4pt
+\renewcommand{\footrulewidth}{0pt}% Default \footrulewidth is 0pt
+\chead{\footnotesize\bf\assessmentTitle}
+\cfoot{\small Page \thepage}
+
+\newcommand{\makeHeader}[4]{
+\thispagestyle{empty}
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+#1 | #2 | #3 | #4
+}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{
+  Name:\enspace\hrulefill\hrulefill\hrulefill
+}
+}
+
+\usepackage{xcolor}
+
+\newcommand{\standardQuestion}[2]{
+\newpage
+\begin{center}
+  \begin{tabular}{|l|c|}
+  \hline
+    \parbox{5in}{
+      \textbf{#1}: This student is able to...\\
+      #2
+    }
+  &
+    \parbox{1in}{
+      \vspace{0.1in}
+      \footnotesize \textcolor{gray}{Mark:}
+      \vspace{0.7in}
+
+      \tiny \textcolor{gray}{(Instructor Use Only)}
+    }
+  \\\hline
+  \end{tabular}
+\end{center}
+}
+
+\newcommand{\csch}{\operatorname{csch}}
+\newcommand{\sech}{\operatorname{sech}}
+
+
+
+\begin{document}
+
+\makeHeader{
+MA 126 }{ Spring 2017 }{ Prof. Clontz }{ \assessmentTitle
+}
+
+\begin{itemize}
+  \item Each question is prefaced with a Standard for this course.
+  \item When grading, each response will be marked as follows:
+  \begin{itemize}
+    \item \(\checkmark\):
+      The response is demonstrates complete understanding of the Standard.
+    \item \(\star\):
+      The response may indicate full understanding of the Standard, but
+      clarification or minor corrections are required.
+    \item \(\times\):
+      The response does not demonstrate complete understanding of the Standard.
+  \end{itemize}
+  \item Only responses marked with a \(\checkmark\) mark count toward your
+    grade for the semester.
+    Visit the course website for more information on how to improve
+    \(\star\) and \(\times\) marks.
+  \item This Assessment is due after 50 minutes. All blank responses will
+    be marked with \(\times\).
+\end{itemize}
+
+
+
+
+
+\standardQuestion{C01}{
+  Derive properties of the logarithmic and exponential functions from their definitions.
+}
+
+Let \(f^\leftarrow\) denote the inverse function of an invertable function
+\(f\); in particular, if \(f(x)=\ln(x)\), then \(f^\leftarrow(x)=\exp(x)\).
+
+Use the theorem
+\(\frac{d}{dx}[f^\leftarrow(x)]=\frac{1}{f'(f^\leftarrow(x))}\) to prove that
+\(\frac{d}{dx}[\exp x]=\exp x\).
+
+
+
+
+
+\standardQuestion{C02}{
+  Prove hyperbolic function identities.
+}
+
+Use the definitions
+\[
+  \tanh(x) = \frac{e^x-e^{-x}}{e^x+e^{-x}},
+  \sech(x) = \frac{2}{e^x+e^{-x}}
+\]
+to prove the following identity.
+\[
+  1-\tanh^2(x)=\sech^2(x)
+\]
+
+
+
+\standardQuestion{C03}{
+  Use integration by substitution.
+}
+
+Recall that \(\frac{d}{du}[\tan u]=\sec^2 u\).
+Find \(\int 4x\sec^2(x^2)\,dx\).
+
+
+
+\standardQuestion{C04}{
+  Use integration by parts.
+}
+
+Find \(\int r^2e^r\,dr\).
+
+
+
+\standardQuestion{C05}{
+  Identify and use appropriate integration techniques.
+}
+
+Draw lines matching each of the five integrals on the left with
+the most appropriate integration technique listed on the right.
+Multiple techniques may be technically possible, but choose the technique most
+useful to begin integration. Every integral and technique is used exactly
+once in the correct answer.
+
+\vspace{1em}
+
+\begin{multicols}{2}
+  \begin{itemize}
+    \item[] \(\displaystyle\int x\sin(x)\,dx\)
+    \item[] \(\displaystyle\int \cos^4(x)\,dx\)
+    \item[] \(\displaystyle\int\frac{1}{x\sqrt{x^2+1}}\,dx\)
+    \item[] \(\displaystyle\int\frac{4x}{3x^2-1}\,dx\)
+    \item[] \(\displaystyle\int\frac{7x^2+x+12}{x^3+3x}\,dx\)
+  \end{itemize}
+  \columnbreak
+  \begin{itemize}
+    \item Integration by Substiution
+    \item Method of Partial Fractions
+    \item Trigonometric Identities
+    \item Trigonometric Substitution
+    \item Integration by Parts
+  \end{itemize}
+\end{multicols}
+
+
+
+\standardQuestion{C06}{
+  Express an area between curves as a definite integral.
+}
+
+Find a definite integral equal to the area between the curves
+\(y=1-x\) and \(y=x^2-1\).
+
+
+
+
+% \standardQuestion{S01}{
+%   Find derivatives and integrals involving logrithmic and exponential functions.
+% }
+%
+% a) Find \(\frac{d}{dz}[\ln(3e^z)]\).
+%
+% \vfill
+%
+% b) Find \(\displaystyle\int\left(2e+\frac{3}{y}\right)\,dy\).
+%
+% \vfill
+%
+%
+%
+% \standardQuestion{S02}{
+%   Find derivatives and integrals involving hypberbolic functions.
+% }
+%
+% a) Find \(\frac{d}{dv}[4\tanh(3v)-\sinh(v^2)]\).
+%
+% \vfill
+%
+% b) Find \(\displaystyle\int(\cosh(x)+2\sinh(x))\,dx\).
+%
+% \vfill
+
+
+
+\standardQuestion{S03}{
+  Integrate products of trigonometric functions.
+}
+
+Find \(\int2\cos^2(y)\,dy\).
+
+
+
+\standardQuestion{S04}{
+  Use trigonometric substitution.
+}
+
+Find \(\displaystyle\int\frac{z+1}{\sqrt{1-z^2}}\,dz\).
+
+
+
+
+\standardQuestion{S05}{
+  Use partial fractions to integrate rational functions.
+}
+
+a) Complete the following partial fraction expansion:
+
+\[
+  \frac{f(x)}{(x^2+3)^2(x-7)^4}
+    =
+  \frac{\hspace{3em}}{x^2+3}
+    +
+  \frac{\hspace{3em}}{(x^2+3)^2}
+    +
+  \frac{\hspace{3em}}{x-7}
+    +
+  \frac{\hspace{3em}}{(x-7)^2}
+    +
+  \frac{\hspace{3em}}{(x-7)^3}
+    +
+  \frac{\hspace{3em}}{(x-7)^4}
+\]
+
+\vspace{1em}
+
+(Assume the degree of \(f\) is less than \(8\).
+You do NOT need to solve for your constants.)
+
+\vspace{1em}
+
+b) Find \(\displaystyle\int\frac{3x^2-x+2}{(x^2+1)(x-1)}\,dx\).
+
+\vfill
+
+
+
+
+\standardQuestion{S06}{
+  Use cross-sectioning to express a volume as a definite integral.
+}
+
+Find a definite integral that equals the volume of a pyramid positioned
+from \(x=0\) to \(x=4\) with square cross-sections of side length
+\(\frac{x}{2}\).
+
+
+
+
+
+
+\newpage
+
+\textcolor{gray}{Use this space if you need extra room for a problem:}
+
+\end{document}
