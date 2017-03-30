@@ -166,26 +166,26 @@ description: "Calculus II - 2017 Spring"
 * Thu Apr 13
     - [Section 5.8](/resources/calculus2/5/8/)
 * Fri Apr 14
-    - Continue Section 5.8
+    - [Section 6.1](/resources/calculus2/6/1/)
 
 
 ## Week 14
 
 * Mon Apr 17
-    - [Section 6.1](/resources/calculus2/6/1/)
-* Wed Apr 19
     - Continue Section 6.1
-* Thu Apr 20
+* Wed Apr 19
     - [Section 6.2](/resources/calculus2/6/2/)
+* Thu Apr 20
+    - Continue Section 6.2
 * Fri Apr 21
     - **Standard Assessment**
 
 ## Week 15
 
 * Mon Apr 24
-    - Continue Section 6.2
-* Wed Apr 26
     - [Section 6.3](/resources/calculus2/6/3/)
+* Wed Apr 26
+    - Continue Section 6.3
 * Thu Apr 27
     - [Section 6.4](/resources/calculus2/6/4/)
 * Fri Apr 28
