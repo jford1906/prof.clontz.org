@@ -23,18 +23,20 @@ description: "Calculus II - 2017 Summer"
 * Room:
     * ILB 370
 * Office Hours
-    * Mon-Fri 8:10-8:40am
+    * Tue-Fri 8:10-8:40am
 
 
 ## Course Description
 
 This course expands upon the concepts of limits, derivatives, and integrals
-introduced in Calculus 1. In addition to developing advanced techniques
-for computing and applying integrals, the ultimate goal of the course is
-to introduce the *power series*, an "infinite polynomial" which can be used
-to express a wide class of differentiable functions.
+introduced in Calculus 1. In addition to developing **advanced
+integration techniques** and covering several **applications of integrals**,
+the ultimate goal of the course is
+to introduce the **power series**, a polynomial with infinitely-many
+terms that can be used to characterize a wide class of differentiable
+functions.
 
-This course utilizes team-based learning.
+This course utilizes **team-based learning**.
 Students will
 complete a survey that will place them into appropriate Teams at the
 start of the semester, and are expected to complete readiness activities
@@ -48,8 +50,7 @@ standards, with the support of the instructor.
 All material for this course is available at no cost at
 [prof.clontz.org/resources/calculus-2][text]. Students are welcome to use
 *University Calculus: Early Transcendentals (3rd Ed)* or any other textbook
-as a supplemental resource, but it is not required and no homework from
-this text will be assigned.
+as a supplemental resource, but it is not required.
 
 It's not required, but many students benefit from bringing a smart device
 to class that can access the course website.
@@ -62,15 +63,16 @@ The main goal of this course is for students to **master** the
 A list of these standards is available on the
 [Standards page][standards].
 
-To demonstrate mastery of these standards, students must first
-earn **Attempt Points (AP)** by participating in class.
+To earn the opportunity to demonstrate mastery of these standards
+to the instructor, students are expected to collect
+**Attempt Points (AP)** by participating in class.
 
 
 ## Team Formation
 
 **Teams** of 4-6 students will be formed based upon a survey
 of students' academic interests and abilities. Each student completing
-this survey will earn 15 Attempt Points.
+this survey will earn Attempt Points.
 Members of each Team will collaborate on quizzes and activities
 throughout the semester.
 
@@ -88,24 +90,23 @@ responsible for reviewing in preparation for class each week.
 On the first day of class each week, students will first be given an
 **Individual Readiness Quiz (IRQ)** of multiple-choice
 questions to check their understanding of the online materials.
-Each correct response earns one Attempt Point to that
-individual.
+Each response earns that individual Attempt Points.
 
 Immediately following the IRQ (before solutions are revealed),
 each Team will come together to take an
 identical **Team Readiness Quiz (TRQ)**, discussing each member's choices and
 agreeing on a solution. These responses are immediately revealed as correct
 or incorrect, and the Team will keep guessing until the correct answer is
-found. After the quiz, 4 Attempt Points are banked to the Team (not
-each individual) for each correct first guess, 2 AP for each correct
-second guess, and 1 AP for each correct third guess.
+found. After the quiz, Attempt Points are banked to the Team (not individuals)
+based on how many guesses were required to reveal the
+correct response.
 
 ### Activities
 
-On days without quizzes, the instructor will assign **Activities**
+On days without an IRQ/TRQ, the instructor will assign **Activities**
 to be completed as a Team during the first 60 minutes of class. These
 activities will be used to cement students' understanding of the
-course standards. 4 Attempt Points will be banked to Teams
+course standards. Attempt Points will be banked to Teams
 (not individuals) that successfully complete each day's Activity(s).
 
 ### Surveys
@@ -115,7 +116,7 @@ to Team members based on
 **Peer Evaluation Surveys (PES)** distributed online throughout the semester.
 The instructor will interpret the results of these surveys and distribute
 AP accordingly. Students who fail to complete a survey by its deadline will
-forfeit their AP.
+forfeit all AP they would have earned from that survey.
 
 
 
@@ -129,14 +130,16 @@ of the Core and Supplemental Standards.
   Standards.
   Each submitted In-Class Exercise costs 1AP. Students may choose to only submit
   some of the attempted exercises if they are not confident in their answers.
-* During office hours, students may complete **Office Exercises** based on any
-  Standard that is not past its deadline. If all active Standards have been
-  completely mastered, then Standards past their deadline may be attempted
-  instead. Each attempted Office Example
-  costs 2AP, whether it is completed or not.
-* During the Final Exam, students may attempt **Final Exercises** based on
-  any of the Standards from the entire course. These final attempts do not cost
-  any AP, but time is limited.
+* During office hours, students may attempt **Office Exercises** based on
+  any Standard covered so far during the course. Each attempt costs 2AP
+  (whether or not it is completed) plus the following:
+    * +1AP for every previously attempted Office Exercise on the same day.
+    * +2AP if the Standard is past its [deadline][standards].
+* Each student will be given the opportunity to customize their **Final Exam**
+  by selecting any Standards from throughout the course that they wish to
+  attempt to show mastery of.
+  Up to 16 **Final Exercises** will be based upon these Standards.
+  These final attempts do not cost any AP, but time is limited.
 
 Each exercise is marked by the instructor as follows.
 
@@ -148,9 +151,9 @@ Each exercise is marked by the instructor as follows.
 
 Students may improve **★** marks to **✓** marks as follows.
 
-* For In-Class Exercises, appropriate revisions must be made and presented
-  to the instructor within one week of the returned exercise. This does not
-  cost any AP.
+* For In-Class Exercises, the solution should be correctly reworked and
+  presented to the instructor on the weekday following the date the marked
+  exercise is returned. (This does not cost any AP.)
 * For Office Exercises, **★** marks are not offered.
 * For Final Exercises, **★** marks are automatically converted to **✓** marks
   at a cost of 10AP per each conversion.
@@ -167,16 +170,16 @@ and up to **1** earned **✓** mark for each of the sixteen
 Supplemental Standards, for a total of **48** possible **✓** marks.
 
 * **A**:
-    * At least **42/48** **✓** marks have been earned.
+    * At least **44/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **16/16** Core Standards.
 * **B**:
-    * At least **34/48** **✓** marks have been earned.
+    * At least **36/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **14/16** Core Standards.
 * **C**:
-    * At least **26/48** **✓** marks have been earned.
+    * At least **28/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **12/16** Core Standards.
 * **D**:
-    * At least **18/48** **✓** marks have been earned.
+    * At least **20/48** **✓** marks have been earned.
 
 
 
@@ -208,14 +211,12 @@ course.
 
 [text]: /resources/calculus2/
 
-[calendar]: /classes/2017/06/ma126/calendar/
+[calendar]: calendar/
 
-[standards]: /classes/2017/06/ma126/standards/
+[standards]: standards/
 
 [usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
 
 
-[usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
-
-[memo]: https://goo.gl/forms/eTJAPzwyLhVRsBcF3
+[usaonline]: #
