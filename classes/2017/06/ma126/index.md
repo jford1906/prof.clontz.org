@@ -24,6 +24,8 @@ description: "Calculus II - 2017 Summer"
     * ILB 370
 * Office Hours
     * Tue-Fri 8:10-8:40am
+* Instructor Information
+    * [Prof. S. Clontz][about]
 
 
 ## Course Description
@@ -214,6 +216,8 @@ course.
 [calendar]: calendar/
 
 [standards]: standards/
+
+[about]: /about/
 
 [usacoursepolicies]: https://www.southalabama.edu/departments/academicaffairs/resources/policies/additionalacademiccoursepolicies.pdf
 
