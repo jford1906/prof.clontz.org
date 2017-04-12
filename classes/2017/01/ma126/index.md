@@ -128,16 +128,16 @@ either during a **Standard Assessment** or in office hours.
   Each question is based on Core or Supplemental Standard. Each response
   will be assigned one of the following marks:
     * **✓**: The response is demonstrates complete understanding of the Standard.
-    * **\***: The response may indicate full understanding of the Standard,
+    * **★**: The response may indicate full understanding of the Standard,
       but clarification or minor corrections are required.
     * **×**: The response does not demonstrate complete understanding of the
       Standard.
     * **?**: The student was absent.
-* Students may replace a **\*** mark with a **✓** mark by making the appropriate
+* Students may replace a **★** mark with a **✓** mark by making the appropriate
   clarifications or corrections and showing the revised problem to the
   instructor during office hours. This must be done within one week
   of the return of the marked Assessment.
-* Students may attempt to replace a **\*** or **×** mark with a
+* Students may attempt to replace a **★** or **×** mark with a
   **✓** mark by working a similar problem chosen by the instructor during office
   hours on a whiteboard. This must be done within four weeks of the return of
   the marked Assessment. Students are limited to a total of three such attempts
@@ -160,15 +160,19 @@ Each Supplemental Standard will appear two times on the written Standard
 Assessments.
 
 Students who have Mastered 13/16 of the Core and Supplemental Standards
+after Standard Assessment 7
 will be given the opportunity to demonstrate mastery of the remaining three
-Core Standards in office hours, include those standards that haven't appeared
+Core Standards in office hours, including those standards that haven't appeared
 yet on a Standard Assessment.
 
 All marks are considered final as of the last scheduled day of classes for
 the semester, with one exception. A **Final Standard Assessment** will be given
 during the university's scheduled Final Exam period for the course.
-Only **✓** and **×** marks will be given on this final assessment, and these
-marks are final.
+Standards that have not yet been assessed will be on this exam, and each
+student will be given the opportunity to choose
+the other Standards that will appear (up to a maximum of 15 exercises).
+Since there's no opportunity for revisions after the final exam,
+three **★** marks will be automatically converted to **✓** marks.
 
 
 
