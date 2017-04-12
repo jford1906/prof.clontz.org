@@ -159,8 +159,8 @@ student who has received **one ✓** mark.
 Each Supplemental Standard will appear two times on the written Standard
 Assessments.
 
-Students who have Mastered 13/16 of the Core and Supplemental Standards
-after Standard Assessment 7
+Students who have Mastered 12/16 of the Core Standards and 13/16 Supplemental
+Standards after Standard Assessment 7
 will be given the opportunity to demonstrate mastery of the remaining three
 Core Standards in office hours, including those standards that haven't appeared
 yet on a Standard Assessment.
