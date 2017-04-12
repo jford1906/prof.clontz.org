@@ -76,7 +76,7 @@ At the end of the course, each student should be able to...
     - Section 6.2
     - Due by Aug 31
 - **C16: Approximation.**
-  Approximate series and power series within appropriate margins of error.
+  Use series to approximate values within appropriate margins of error.
     - Section 6.4
     - Due by Aug 31
 

@@ -106,9 +106,8 @@ correct response.
 ### Activities
 
 On days without an IRQ/TRQ, the instructor will assign **Activities**
-to be completed as a Team during the first 60 minutes of class. These
-activities will be used to cement students' understanding of the
-course standards. Attempt Points will be banked to Teams
+to be completed as a Team during the first 60 minutes of class.
+Attempt Points will be banked to each Team
 (not individuals) that successfully complete each day's Activity(s).
 
 ### Surveys
@@ -136,10 +135,10 @@ of the Core and Supplemental Standards.
   any Standard covered so far during the course. Each attempt costs 2AP
   (whether or not it is completed) plus the following:
     * +1AP for every previously attempted Office Exercise on the same day.
-    * +2AP if the Standard is past its [deadline][standards].
+    * +1AP for each week past the Standard's [deadline][standards].
 * Each student will be given the opportunity to customize their **Final Exam**
-  by selecting any Standards from throughout the course that they wish to
-  attempt to show mastery of.
+  by selecting which Standards from throughout the course that they wish to
+  attempt to show mastery of during the Final.
   Up to 16 **Final Exercises** will be based upon these Standards.
   These final attempts do not cost any AP, but time is limited.
 
