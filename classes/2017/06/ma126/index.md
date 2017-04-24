@@ -55,7 +55,7 @@ All material for this course is available at no cost at
 as a supplemental resource, but it is not required.
 
 It's not required, but many students benefit from bringing a smart device
-to class that can access the course website.
+to class.
 
 
 ## Standards
@@ -126,7 +126,7 @@ forfeit all AP they would have earned from that survey.
 Students may spend their Attempt Points to individually demonstrate mastery
 of the Core and Supplemental Standards.
 
-* During the last 15 minutes of most class days, students may attempt
+* During the last 15 minutes of days without an IRQ/TRQ, students may attempt
   **In-Class Exercises** based on several of the most recently covered
   Standards.
   Each submitted In-Class Exercise costs 1AP. Students may choose to only submit
@@ -135,7 +135,7 @@ of the Core and Supplemental Standards.
   **Office Exercises** based on
   any Standard covered so far during the course. Each attempt costs 2AP
   (whether or not it is completed) plus the following:
-    * +2AP for the second attempt each day.
+    * +2AP on a second daily attempt.
     * +1AP for each week past the Standard's [deadline][standards].
 * The **Final Exam** will contain several **Final Exercises**: two for each Core
   Standard, and one for each Supplemental Standard.
@@ -145,7 +145,7 @@ of the Core and Supplemental Standards.
 Each exercise is marked by the instructor as follows.
 
 * **✓**: The response demonstrates complete understanding of the Standard.
-* **★**: The response may indicate full understanding of the Standard,
+* **★**: The response may indicate complete understanding of the Standard,
   but clarification or minor corrections are required.
 * **×**: The response does not demonstrate complete understanding of the
   Standard.

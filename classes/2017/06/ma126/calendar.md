@@ -8,187 +8,131 @@ description: "Calculus II - 2017 Spring"
 
 ---
 
-TODO
+Sections refer to Prof. Clontz's
+[Calculus 2][text] online lectures.
 
-<!-- ## Week 1
+C## and S## codes refer to the [course standards][standards].
 
-* Mon Jan 9
+## Week 1
+
+- Mon May 29
+    - *Memorial Day holiday*
+- Tue May 30
     - **Orientation**
-* Wed Jan 11
-    - [Section 1.1](/resources/calculus2/1/1/)
-* Thu Jan 12
-    - Continue Section 1.1
-* Fri Jan 13
-    - [Section 1.2](/resources/calculus2/1/2/)
-
+    - Review Sections 1.1-1.2 as soon as possible
+- Wed May 31
+    - C01: Log&Exp Deriv&Int.
+- Thu Jun 01
+    - S01: Log/Exp Proofs.
+- Fri Jun 02
+    - C02: Hyperbolic Deriv&Int.
 
 ## Week 2
 
-* Mon Jan 16
-    - **MLK Holiday (no class)**
-* Wed Jan 18
-    - Continue Section 1.2
-* Thu Jan 19
-    - [Section 2.1](/resources/calculus2/2/1/)
-* Fri Jan 20
-    - **Standard Assessment**
-
+- Mon Jun 05
+    - **IRQ/TRQ**
+    - Covers Sections 2.1-2.3
+- Tue Jun 06
+    - S02: Hyperbolic Proofs.
+- Wed Jun 07
+    - C03: Int by Sub.
+- Thu Jun 08
+    - S03: Trig Identities.
+- Fri Jun 09
+    - S04: Trig Sub.
 
 ## Week 3
 
-* Mon Jan 23
-    - Continue Section 2.1
-* Wed Jan 25
-    - [Section 2.2](/resources/calculus2/2/2/)
-* Thu Jan 26
-    - Continue Section 2.2
-* Fri Jan 27
-    - [Section 2.3](/resources/calculus2/2/3/)
-
+- Mon Jun 12
+    - **IRQ/TRQ**
+    - Covers Sections 2.4-3.1
+- Tue Jun 13
+    - S05: Partial Fractions.
+- Wed Jun 14
+    - C04: Int by Parts.
+- Thu Jun 15
+    - C05: Int Tech.
+- Fri Jun 16
+    - C06: Area Between Curves.
 
 ## Week 4
 
-* Mon Jan 30
-    - Continue Section 2.3
-* Wed Feb 1
-    - [Section 2.4](/resources/calculus2/2/4/)
-* Thu Feb 2
-    - Continue Section 2.4
-* Fri Feb 3
-    - **Standard Assessment**
-
+- Mon Jun 19
+    - **IRQ/TRQ**
+    - Covers Sections 3.2-3.5
+- Tue Jun 20
+    - S06: Cross-Sectioning.
+- Wed Jun 21
+    - C07: Washer&Shell.
+- Thu Jun 22
+    - C08: Work.
+- Fri Jun 23
+    - S07: Work Differential.
 
 ## Week 5
 
-* Mon Feb 6
-    - [Section 2.5](/resources/calculus2/2/5/)
-* Wed Feb 8
-    - Continue Section 2.5
-* Thu Feb 9
-    - [Section 2.6](/resources/calculus2/2/6/)
-* Fri Feb 10
-    - Continue Section 2.6
-
+- Mon Jun 26
+    - **IRQ/TRQ**
+    - Covers Sections 4.1-4.4
+- Tue Jun 27
+    - C09: Parametrizations.
+- Wed Jun 28
+    - S08: Parametrization Appl.
+- Thu Jun 29
+    - C10: Polar.
+- Fri Jun 30
+    - S09: Polar Appl.
 
 ## Week 6
 
-* Mon Feb 13
-    - [Section 3.1](/resources/calculus2/3/1/)
-* Wed Feb 15
-    - [Section 3.2](/resources/calculus2/3/2/)
-* Thu Feb 16
-    - [Section 3.3](/resources/calculus2/3/3/)
-* Fri Feb 17
-    - **Standard Assessment**
-
+- Mon Jul 03
+    - **IRQ/TRQ**
+    - Covers Sections 5.1-5.3
+- Tue Jul 04
+    - *Independence Day holiday*
+- Wed Jul 05
+    - S10: Sequence Formulas.
+- Thu Jul 06
+    - C11: Sequence Limits.
+- Fri Jul 07
+    - C12: Partial Sums.
 
 ## Week 7
 
-* Mon Feb 20
-    - Continue Section 3.3
-* Wed Feb 22
-    - [Section 3.4](/resources/calculus2/3/4/)
-* Thu Feb 23
-    - Continue Section 3.4
-* Fri Feb 24
-    - [Section 3.5](/resources/calculus2/3/5/)
+- Mon Jul 10
+    - **IRQ/TRQ**
+    - Covers Sections 5.4-5.7
+- Tue Jul 11
+    - S11: Alternating Series.
+- Wed Jul 12
+    - S12: Integral Test.
+- Thu Jul 13
+    - S13: Ratio/Root Tests.
+- Fri Jul 14
+    - S14: Comparison Tests.
 
+## Week 7
+
+- Mon Jul 17
+    - **IRQ/TRQ**
+    - Covers Sections 5.8-6.4
+- Tue Jul 18
+    - C13: Series Tech.
+- Wed Jul 19
+    - C14: Power Series.
+- Thu Jul 20
+    - C15: Taylor Series.
+- Fri Jul 21
+    - S15: Power Series Conv.
 
 ## Week 8
 
-* Mon Feb 27
-    - Continue Section 3.5
-* Wed Mar 1
-    - [Section 4.1](/resources/calculus2/4/1/)
-* Thu Mar 2
-    - [Section 4.2](/resources/calculus2/4/2/)
-* Fri Mar 3
-    - **Standard Assessment**
+- Mon Jul 24
+    - C16: Approximation.
+- Tue Jul 25
+    - S16: Taylor Series Conv.
 
 
-## Week 9
+[text]: /resources/calculus2/
 
-* Mon Mar 6
-    - Continue Section 4.2
-* Wed Mar 8
-    - [Section 4.3](/resources/calculus2/4/3/)
-* Thu Mar 9
-    - [Section 4.4](/resources/calculus2/4/3/)
-* Fri Mar 10
-    - Continue Section 4.4
-
-
-### Spring Break
-
-* March 13-17
-
-
-## Week 10
-
-* Mon Mar 20
-    - [Section 5.1](/resources/calculus2/5/1/)
-* Wed Mar 22
-    - [Section 5.2](/resources/calculus2/5/2/)
-* Thu Mar 23
-    - Continue Section 5.2
-* Fri Mar 24
-    - **Standard Assessment**
-
-
-## Week 11
-
-* Mon Mar 27
-    - [Section 5.3](/resources/calculus2/5/3/)
-* Wed Mar 29
-    - Continue Section 5.3
-* Thu Mar 30
-    - [Section 5.4](/resources/calculus2/5/4/)
-* Fri Mar 31
-    - [Section 5.5](/resources/calculus2/5/5/)
-
-
-## Week 12
-
-* Mon Apr 3
-    - Continue Section 5.5
-* Wed Apr 5
-    - [Section 5.6](/resources/calculus2/5/6/)
-* Thu Apr 6
-    - Continue Section 5.6
-* Fri Apr 7
-    - **Standard Assessment**
-
-
-## Week 13
-
-* Mon Apr 10
-    - [Section 5.7](/resources/calculus2/5/7/)
-* Wed Apr 12
-    - Continue Section 5.7
-* Thu Apr 13
-    - [Section 5.8](/resources/calculus2/5/8/)
-* Fri Apr 14
-    - Continue Section 5.8
-
-
-## Week 14
-
-* Mon Apr 17
-    - [Section 6.1](/resources/calculus2/6/1/)
-* Wed Apr 19
-    - Continue Section 6.1
-* Thu Apr 20
-    - [Section 6.2](/resources/calculus2/6/2/)
-* Fri Apr 21
-    - **Standard Assessment**
-
-## Week 15
-
-* Mon Apr 24
-    - Continue Section 6.2
-* Wed Apr 26
-    - [Section 6.3](/resources/calculus2/6/3/)
-* Thu Apr 27
-    - [Section 6.4](/resources/calculus2/6/4/)
-* Fri Apr 28
-    - Continue Section 6.4 -->
+[standards]: ../standards/
