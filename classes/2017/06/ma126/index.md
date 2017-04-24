@@ -131,15 +131,15 @@ of the Core and Supplemental Standards.
   Standards.
   Each submitted In-Class Exercise costs 1AP. Students may choose to only submit
   some of the attempted exercises if they are not confident in their answers.
-* During office hours, students may attempt **Office Exercises** based on
+* During office hours, students may attempt up to two
+  **Office Exercises** based on
   any Standard covered so far during the course. Each attempt costs 2AP
   (whether or not it is completed) plus the following:
-    * +1AP for every previously attempted Office Exercise on the same day.
+    * +2AP for the second attempt each day.
     * +1AP for each week past the Standard's [deadline][standards].
-* Each student will be given the opportunity to customize their **Final Exam**
-  by selecting which Standards from throughout the course that they wish to
-  attempt to show mastery of during the Final.
-  Up to 16 **Final Exercises** will be based upon these Standards.
+* The **Final Exam** will contain several **Final Exercises**: two for each Core
+  Standard, and one for each Supplemental Standard.
+  Students may submit their attempts for up to 16 different exercises.
   These final attempts do not cost any AP, but time is limited.
 
 Each exercise is marked by the instructor as follows.
@@ -152,10 +152,11 @@ Each exercise is marked by the instructor as follows.
 
 Students may improve **★** marks to **✓** marks as follows.
 
-* For In-Class Exercises, the solution should be correctly reworked and
+* For In-Class Exercises, the solution must be correctly reworked and
   presented to the instructor on the weekday following the date the marked
   exercise is returned. (This does not cost any AP.)
-* For Office Exercises, **★** marks are not offered.
+* For Office Exercises, **★** marks are not offered (the instructor will
+  request any necessary clarification or minor corrections during the attempt).
 * For Final Exercises, **★** marks are automatically converted to **✓** marks
   at a cost of 10AP per each conversion.
 
@@ -171,16 +172,16 @@ and up to **1** earned **✓** mark for each of the sixteen
 Supplemental Standards, for a total of **48** possible **✓** marks.
 
 * **A**:
-    * At least **44/48** **✓** marks have been earned.
+    * At least **46/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **16/16** Core Standards.
 * **B**:
-    * At least **36/48** **✓** marks have been earned.
+    * At least **38/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **14/16** Core Standards.
 * **C**:
-    * At least **28/48** **✓** marks have been earned.
+    * At least **30/48** **✓** marks have been earned.
     * At least one **✓** mark has been earned for **12/16** Core Standards.
 * **D**:
-    * At least **20/48** **✓** marks have been earned.
+    * At least **24/48** **✓** marks have been earned.
 
 
 

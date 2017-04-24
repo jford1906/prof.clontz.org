@@ -4,7 +4,7 @@ title: "Classes"
 description: "Information on my courses"
 ---
 
-## 2017 Summer (NEW)
+## 2017 Summer (Work-in-Progress)
 
 - [MA 126](/classes/2017/06/ma126/)
 
