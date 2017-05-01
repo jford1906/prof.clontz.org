@@ -88,6 +88,7 @@ At the end of the course, each student should be able to...
 * [SA4](/classes/2017/01/ma126/pdf/sa4sol.pdf)
 * [SA5](/classes/2017/01/ma126/pdf/sa5sol.pdf)
 * [SA6](/classes/2017/01/ma126/pdf/sa6sol.pdf)
+* [SA7](/classes/2017/01/ma126/pdf/sa7sol.pdf)
 
 [usaonline]: https://ecampus.southalabama.edu/portal/site/4eed09d5-644d-44ed-985f-de0673e68b1a
 
