@@ -127,8 +127,7 @@ At the end of the course, each student should be able to...
 
 Each standard is due at the end of the week following its coverage in class
 according to the class [calendar][calendar]. For example, C02 is covered during
-Week 1, so it is due by the end of Week 2. Overdue standards may still be
-attempted, but cost extra Attempt Points.
+Week 1, so it is due by the end of Week 2.
 
 
 [calendar]: ../calendar/

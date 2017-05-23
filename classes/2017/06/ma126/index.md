@@ -92,32 +92,27 @@ responsible for reviewing in preparation for class each week.
 On the first day of class each week, students will first be given an
 **Individual Readiness Quiz (IRQ)** of multiple-choice
 questions to check their understanding of the online materials.
-Each response earns that individual Attempt Points.
 
 Immediately following the IRQ (before solutions are revealed),
 each Team will come together to take an
 identical **Team Readiness Quiz (TRQ)**, discussing each member's choices and
 agreeing on a solution. These responses are immediately revealed as correct
 or incorrect, and the Team will keep guessing until the correct answer is
-found. After the quiz, Attempt Points are banked to the Team (not individuals)
-based on how many guesses were required to reveal the
-correct response.
+found.
 
 ### Activities
 
 On days without an IRQ/TRQ, the instructor will assign **Activities**
-to be completed as a Team during the first 60 minutes of class.
-Attempt Points will be banked to each Team
-(not individuals) that successfully complete each day's Activity(s).
+to be completed as a Team during the last 60 minutes of class.
 
-### Surveys
+### Awarding AP
 
-Attempt Points banked after TRQs and Activities are distributed
-to Team members based on
-**Peer Evaluation Surveys (PES)** distributed online throughout the semester.
-The instructor will interpret the results of these surveys and distribute
-AP accordingly. Students who fail to complete a survey by its deadline will
-forfeit all AP they would have earned from that survey.
+Each week, the instructor will award AP to each student
+based on a qualitative assessment of that student's participation during
+quizzes and activities. If necessary,
+the instructor will solicit survey feedback
+from the class to make that determination quantitatively instead;
+if so, participation on the survey will be required to earn that week's AP.
 
 
 
@@ -126,15 +121,16 @@ forfeit all AP they would have earned from that survey.
 Students may spend their Attempt Points to individually demonstrate mastery
 of the Core and Supplemental Standards.
 
-* During the last 15 minutes of days without an IRQ/TRQ, students may attempt
+* During the first 15 minutes of days without an IRQ/TRQ, students are given
+  a **Mastery Quiz** containing several
   **In-Class Exercises** based on several of the most recently covered
   Standards.
-  Each submitted In-Class Exercise costs 1AP. Students may choose to only submit
-  some of the attempted exercises if they are not confident in their answers.
-* During office hours, students may attempt up to two
+  Each submitted In-Class Exercise costs 1AP; exercises that are not submitted
+  do not cost AP.
+* Each day during office hours, students may attempt up to two
   **Office Exercises** based on
   any Standard covered so far during the course. Each attempt costs 2AP
-  (whether or not it is completed) plus the following:
+  (whether or not it is completed successfully) plus the following:
     * +2AP on a second daily attempt.
     * +1AP for each week past the Standard's [deadline][standards].
 * The **Final Exam** will contain several **Final Exercises**: two for each Core

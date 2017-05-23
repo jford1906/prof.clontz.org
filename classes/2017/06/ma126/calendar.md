@@ -111,7 +111,7 @@ C## and S## codes refer to the [course standards][standards].
 - Fri Jul 14
     - S14: Comparison Tests.
 
-## Week 7
+## Week 8
 
 - Mon Jul 17
     - **IRQ/TRQ**
@@ -125,7 +125,7 @@ C## and S## codes refer to the [course standards][standards].
 - Fri Jul 21
     - S15: Power Series Conv.
 
-## Week 8
+## Week 9
 
 - Mon Jul 24
     - C16: Approximation.
