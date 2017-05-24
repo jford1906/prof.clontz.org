@@ -7,7 +7,7 @@ description: "Information on my courses"
 ## 2017 Summer (Work-in-Progress)
 
 - [MA 126 - Calculus II](/classes/2017/06/ma126/)
-- [MA 227 - Calculus III (TODO)](#)
+- [MA 227 - Calculus III](/classes/2017/06/ma227/)
 
 ## 2017 Spring
 
