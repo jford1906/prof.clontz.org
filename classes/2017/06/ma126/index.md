@@ -61,7 +61,7 @@ to class.
 ## Standards
 
 The main goal of this course is for students to **master** the
-**Core and Supplemental Standards** for the course.
+**Core and Supporting Standards** for the course.
 A list of these standards is available on the
 [Standards page][standards].
 
@@ -119,7 +119,7 @@ if so, participation on the survey will be required to earn that week's AP.
 ## Attempting Standards
 
 Students may spend their Attempt Points to individually demonstrate mastery
-of the Core and Supplemental Standards.
+of the Core and Supporting Standards.
 
 * During the first 15 minutes of days without an IRQ/TRQ, students are given
   a **Mastery Quiz** containing several
@@ -134,7 +134,7 @@ of the Core and Supplemental Standards.
     * +2AP on a second daily attempt.
     * +1AP for each week past the Standard's [deadline][standards].
 * The **Final Exam** will contain several **Final Exercises**: two for each Core
-  Standard, and one for each Supplemental Standard.
+  Standard, and one for each Supporting Standard.
   Students may submit their attempts for up to 16 different exercises.
   These final attempts do not cost any AP, but time is limited.
 
@@ -149,7 +149,7 @@ Each exercise is marked by the instructor as follows.
 Students may improve **★** marks to **✓** marks as follows.
 
 * For In-Class Exercises, the solution must be correctly reworked and
-  presented to the instructor on the weekday following the date the marked
+  submitted to the instructor on the weekday following the date the marked
   exercise is returned. (This does not cost any AP.)
 * For Office Exercises, **★** marks are not offered (the instructor will
   request any necessary clarification or minor corrections during the attempt).
@@ -161,11 +161,11 @@ Students may improve **★** marks to **✓** marks as follows.
 
 ## Grade Assignments
 
-Grades are assigned based on students' mastery of the Core and Supplemental
+Grades are assigned based on students' mastery of the Core and Supporting
 Standards. This is calculated by adding up to **2** earned **✓** marks for each
 of the sixteen Core Standards,
 and up to **1** earned **✓** mark for each of the sixteen
-Supplemental Standards, for a total of **48** possible **✓** marks.
+Supporting Standards, for a total of **48** possible **✓** marks.
 
 * **A**:
     * At least **46/48** **✓** marks have been earned.

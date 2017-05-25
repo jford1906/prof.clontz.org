@@ -55,13 +55,13 @@ as a supplemental resource, but it is not required.
 ## Mastering Standards
 
 The main goal of this course is for students to **master** the
-**Core and Supplemental Standards** for the course.
+**Core and Supporting Standards** for the course.
 A list of these standards is available on the
 [Standards page][standards].
 
 Course lectures will be dedicated to covering each standard and working
 examples. After each standard has been covered, it will be assessed on
-several **Mastery Quizzes** at the beginning of subsequent classes.
+several **Quizzes** at the beginning of subsequent classes.
 Mastery of standards will also be assessed on the **Midterm Exam**
 and **Final Exam**.
 
@@ -84,11 +84,11 @@ up to four **★** marks will be automatically converted to **✓** marks.
 
 ## Grade Assignments
 
-Grades are assigned based on students' mastery of the Core and Supplemental
+Grades are assigned based on students' mastery of the Core and Supporting
 Standards. This is calculated by adding up to **2** earned **✓** marks for each
 of the twelve Core Standards,
 and up to **1** earned **✓** mark for each of the twelve
-Supplemental Standards, for a total of **36** possible **✓** marks.
+Supporting Standards, for a total of **36** possible **✓** marks.
 
 * **A**:
     * At least **34/36** **✓** marks have been earned.

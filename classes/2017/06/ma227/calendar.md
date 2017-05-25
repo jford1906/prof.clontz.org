@@ -8,12 +8,12 @@ description: "Calculus III - 2017 Summer"
 
 ---
 
-TODO: replace with Cal III calendar
+C## and S## codes refer to the [course standards][standards] covered on
+each day. Once each standard has been covered, it will begin to appear
+on quizzes on the following class day.
 
-Sections refer to Prof. Clontz's
-[Calculus 2][text] online lectures.
-
-C## and S## codes refer to the [course standards][standards].
+This calendar will be adjusted throughout the semester based on how
+quickly material is covered in lecture.
 
 ## Week 1
 
@@ -21,120 +21,125 @@ C## and S## codes refer to the [course standards][standards].
     - *Memorial Day holiday*
 - Tue May 30
     - **Orientation**
-    - Review Sections 1.1-1.2 as soon as possible
+    - S01: 3DSpace.
 - Wed May 31
-    - C01: Log&Exp Deriv&Int.
+    - S01: 3DSpace.
+    - S02: DotProd.
 - Thu Jun 01
-    - S01: Log/Exp Proofs.
+    - S02: DotProd.
+    - S03: CrossProd.
 - Fri Jun 02
-    - C02: Hyperbolic Deriv&Int.
+    - S03: CrossProd.
+    - C01: SurfaceEQ.
 
 ## Week 2
 
 - Mon Jun 05
-    - **IRQ/TRQ**
-    - Covers Sections 2.1-2.3
+    - C01: SurfaceEQ.
 - Tue Jun 06
-    - S02: Hyperbolic Proofs.
+    - C02: VectFunc.
 - Wed Jun 07
-    - C03: Int by Sub.
+    - C03: VectCalc.
 - Thu Jun 08
-    - S03: Trig Identities.
+    - C03: VectCalc.
+    - C04: VectFuncSTNB.
 - Fri Jun 09
-    - S04: Trig Sub.
+    - C04: VectFuncSTNB.
 
 ## Week 3
 
 - Mon Jun 12
-    - **IRQ/TRQ**
-    - Covers Sections 2.4-3.1
+    - S04: Kinematics.
 - Tue Jun 13
-    - S05: Partial Fractions.
+    - S05: MulivarFunc.
 - Wed Jun 14
-    - C04: Int by Parts.
+    - C05: MultivarCalc.
 - Thu Jun 15
-    - C05: Int Tech.
+    - C05: MultivarCalc.
+    - C06: ChainRule.
 - Fri Jun 16
-    - C06: Area Between Curves.
+    - C06: ChainRule.
 
 ## Week 4
 
 - Mon Jun 19
-    - **IRQ/TRQ**
-    - Covers Sections 3.2-3.5
+    - S06: Lineariz.
 - Tue Jun 20
-    - S06: Cross-Sectioning.
+    - S07: Optimiz.
 - Wed Jun 21
-    - C07: Washer&Shell.
+    - C07: DoubleInt.
 - Thu Jun 22
-    - C08: Work.
+    - C07: DoubleInt.
+    - C08: TripleInt.
 - Fri Jun 23
-    - S07: Work Differential.
+    - C08: TripleInt.
 
 ## Week 5
 
 - Mon Jun 26
-    - **IRQ/TRQ**
-    - Covers Sections 4.1-4.4
+    - S08: TransVar.
 - Tue Jun 27
-    - C09: Parametrizations.
+    - S08: TransVar.
+    - C09: PolCylSph.
 - Wed Jun 28
-    - S08: Parametrization Appl.
+    - C09: PolCylSph.
 - Thu Jun 29
-    - C10: Polar.
+    - Review
 - Fri Jun 30
-    - S09: Polar Appl.
+    - **Midterm Exam**
 
 ## Week 6
 
 - Mon Jul 03
-    - **IRQ/TRQ**
-    - Covers Sections 5.1-5.3
+    - C10: VectField.
 - Tue Jul 04
     - *Independence Day holiday*
 - Wed Jul 05
-    - S10: Sequence Formulas.
+    - C10: VectField.
+    - C11: LineInt.
 - Thu Jul 06
-    - C11: Sequence Limits.
+    - C11: LineInt.
 - Fri Jul 07
-    - C12: Partial Sums.
+    - S09: ParamSurf.
 
 ## Week 7
 
 - Mon Jul 10
-    - **IRQ/TRQ**
-    - Covers Sections 5.4-5.7
+    - S09: ParamSurf.
+    - S10: SurfInt.
 - Tue Jul 11
-    - S11: Alternating Series.
+    - S10: SurfInt.
 - Wed Jul 12
-    - S12: Integral Test.
+    - C12: FundThmLine.
 - Thu Jul 13
-    - S13: Ratio/Root Tests.
+    - C12: FundThmLine.
+    - S11: GreenStokes.
 - Fri Jul 14
-    - S14: Comparison Tests.
+    - S11: GreenStokes.
 
 ## Week 8
 
 - Mon Jul 17
-    - **IRQ/TRQ**
-    - Covers Sections 5.8-6.4
+    - S12: DivThm.
 - Tue Jul 18
-    - C13: Series Tech.
+    - Flex
 - Wed Jul 19
-    - C14: Power Series.
+    - Flex
 - Thu Jul 20
-    - C15: Taylor Series.
+    - Flex
 - Fri Jul 21
-    - S15: Power Series Conv.
+    - Flex
 
 ## Week 9
 
 - Mon Jul 24
-    - C16: Approximation.
+    - Flex
 - Tue Jul 25
-    - S16: Taylor Series Conv.
+    - Review
 
+## Final Exam
 
-[text]: /resources/calculus2/
+- Wednesday, July 26, 3:30pm-5:30pm
+    - (The 3pm timeslot listed on the [university website](http://www.southalabama.edu/departments/registrar/finalexamschedule-summer.html).)
 
 [standards]: ../standards/
