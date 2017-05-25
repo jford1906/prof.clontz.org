@@ -41,11 +41,11 @@ At the end of the course, each student should be able to...
 
 ## Supporting Standards
 
-- **S01: 3DSpace.**
+- [**S01: 3DSpace.**](s01)
   Plot and analyze points and vectors in three-dimensional Euclidean space.
-- **S02: DotProd.**
+- [**S02: DotProd.**](s02)
   Compute and apply the dot product of two vectors.
-- **S03: CrossProd.**
+- [**S03: CrossProd.**](s03)
   Compute and apply the cross product of two vectors.
 - **S04: Kinematics.**
   Compute and apply position, velocity, and acceleration vector functions.
