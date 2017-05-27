@@ -12,7 +12,7 @@ At the end of the course, each student should be able to...
 
 ## Core Standards
 
-- **C01: SurfaceEQ.**
+- [**C01: SurfaceEQ.**](c01)
   Identify and sketch surfaces in three-dimensional Euclidean space.
 - **C02: VectFunc.**
   Model curves in three-dimensional Euclidean space with vector functions.

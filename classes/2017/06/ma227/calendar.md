@@ -21,21 +21,21 @@ quickly material is covered in lecture.
     - *Memorial Day holiday*
 - Tue May 30
     - **Orientation**
-    - S01: 3DSpace.
+    - [S01: 3DSpace.](../standards/s01)
 - Wed May 31
-    - S01: 3DSpace.
-    - S02: DotProd.
+    - [S01: 3DSpace.](../standards/s01)
+    - [S02: DotProd.](../standards/s02)
 - Thu Jun 01
-    - S02: DotProd.
-    - S03: CrossProd.
+    - [S02: DotProd.](../standards/s02)
+    - [S03: CrossProd.](../standards/s03)
 - Fri Jun 02
-    - S03: CrossProd.
-    - C01: SurfaceEQ.
+    - [S03: CrossProd.](../standards/s03)
+    - [C01: SurfaceEQ.](../standards/c01)
 
 ## Week 2
 
 - Mon Jun 05
-    - C01: SurfaceEQ.
+    - [C01: SurfaceEQ.](../standards/c01)
 - Tue Jun 06
     - C02: VectFunc.
 - Wed Jun 07
