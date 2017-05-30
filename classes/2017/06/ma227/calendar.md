@@ -4,10 +4,6 @@ title: "MA 126 Calendar"
 description: "Calculus III - 2017 Summer"
 ---
 
-[Back to MA 126 (2017 Summer)](..)
-
----
-
 C## and S## codes refer to the [course standards][standards] covered on
 each day. Once each standard has been covered, it will begin to appear
 on quizzes on the following class day.

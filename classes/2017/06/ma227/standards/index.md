@@ -4,10 +4,6 @@ title: "MA 227 Standards"
 description: "Calculus III - 2017 Summer"
 ---
 
-[Back to MA 227 (2017 Summer)](..)
-
----
-
 At the end of the course, each student should be able to...
 
 ## Core Standards

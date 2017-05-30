@@ -4,10 +4,6 @@ title: "MA 126 Standards"
 description: "Calculus II - 2017 Summer"
 ---
 
-[Back to MA 126 (2017 Summer)](..)
-
----
-
 At the end of the course, each student should be able to...
 
 ## Core Standards

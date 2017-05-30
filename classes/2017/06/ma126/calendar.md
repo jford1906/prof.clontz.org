@@ -4,10 +4,6 @@ title: "MA 126 Calendar"
 description: "Calculus II - 2017 Summer"
 ---
 
-[Back to MA 126 (2017 Summer)](..)
-
----
-
 Sections refer to Prof. Clontz's
 [Calculus 2][text] online lectures.
 
