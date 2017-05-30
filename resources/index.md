@@ -18,3 +18,5 @@ functions. [[Link](/resources/calculus2/)]
 
 My notes on chapters 12-16 of Stewart's Calculus text are available on
 [GitHub](https://github.com/StevenClontz/Stewart-12to16).
+I've also started writing up notes for my Summer 2017 class on
+my [class webpage](/classes/2017/06/ma227/standards).
