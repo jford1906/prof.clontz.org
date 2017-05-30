@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 126"
+title: "MA 227"
 description: "Calculus III - 2017 Summer"
 ---
 
