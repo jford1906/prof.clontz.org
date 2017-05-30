@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MA 126 Calendar"
+title: "MA 227 Calendar"
 description: "Calculus III - 2017 Summer"
 ---
 

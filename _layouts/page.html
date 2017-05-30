@@ -53,6 +53,36 @@ layout: default
 			{{ content }}
 		</div>
 	</div>
+
+  {% capture subpages_list %}
+    {% capture page_path %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+    {% for subpage in site.pages %}
+        {% capture subpage_path %}{{ subpage.url | remove: "/index.html" }}{% endcapture %}
+        {% assign subpage_path_array = subpage_path | split: '/' %}
+        {% capture subpage_parent_path %}{% for item in subpage_path_array %}{% unless forloop.last %}{{ item }}/{% endunless %}{% endfor %}{% endcapture %}
+        {% if page_path == subpage_parent_path  %}
+            <li>
+              <a href="{{ site.baseurl }}{{subpage_path}}">
+                {% if subpage.breadcrumb %}
+                  {{subpage.breadcrumb}}
+                {% elsif subpage.title %}
+                  {{subpage.title}}
+                {% else %}
+                  {{subpage_path}}
+                {% endif %}
+              </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+  {% endcapture %}
+  {% assign subpages_list_stripped = subpages_list | strip %}
+  {% unless subpages_list_stripped == "" %}
+    <hr>
+    <h3>Subpages</h3>
+    <ul>
+      {{ subpages_list }}
+    </ul>
+  {% endunless %}
 </div>
 
 <hr>
