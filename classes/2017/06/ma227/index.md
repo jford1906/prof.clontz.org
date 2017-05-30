@@ -55,12 +55,35 @@ as a supplemental resource (in particular, for optional homework),
 but it is not required.
 
 
-## Mastering Standards
+
+
+## Grade Assignments
 
 The main goal of this course is for students to **master** the
 **Core and Supporting Standards** for the course.
 A list of these standards is available on the
 [Standards page][standards].
+
+Grades are assigned based on students' mastery of the Core and Supporting
+Standards. This is calculated by adding up to **2** earned **✓** marks for each
+of the twelve Core Standards,
+and up to **1** earned **✓** mark for each of the twelve
+Supporting Standards, for a total of **36** possible **✓** marks.
+
+* **A**:
+    * At least **34/36** **✓** marks have been earned.
+    * At least one **✓** mark has been earned for **12/12** Core Standards.
+* **B**:
+    * At least **28/36** **✓** marks have been earned.
+    * At least one **✓** mark has been earned for **10/12** Core Standards.
+* **C**:
+    * At least **22/36** **✓** marks have been earned.
+    * At least one **✓** mark has been earned for **8/12** Core Standards.
+* **D**:
+    * At least **18/36** **✓** marks have been earned.
+
+
+## Mastering Standards
 
 Course lectures will be dedicated to covering each standard and working
 examples. After each standard has been covered, it will be assessed on
@@ -81,29 +104,6 @@ by correctly reworking the exercise on paper and submitting this new attempt
 to the instructor on the weekday following the date the marked
 exercise is returned. On the Final Exam, exercises may not be reworked, but
 up to four **★** marks will be automatically converted to **✓** marks.
-
-
-
-
-## Grade Assignments
-
-Grades are assigned based on students' mastery of the Core and Supporting
-Standards. This is calculated by adding up to **2** earned **✓** marks for each
-of the twelve Core Standards,
-and up to **1** earned **✓** mark for each of the twelve
-Supporting Standards, for a total of **36** possible **✓** marks.
-
-* **A**:
-    * At least **34/36** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **12/12** Core Standards.
-* **B**:
-    * At least **28/36** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **10/12** Core Standards.
-* **C**:
-    * At least **22/36** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **8/12** Core Standards.
-* **D**:
-    * At least **18/36** **✓** marks have been earned.
 
 
 
