@@ -54,6 +54,8 @@ All material for this course is available at no cost at
 *University Calculus: Early Transcendentals (3rd Ed)* or any other textbook
 as a supplemental resource, but it is not required.
 
+Students may be asked to provide dry-erase markers for use during class.
+
 It's not required, but many students benefit from bringing a smart device
 to class.
 
