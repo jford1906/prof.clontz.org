@@ -6,7 +6,6 @@ description: "Calculus III - 2017 Summer"
 
 #### Quick Links
 
-- [Lectures and Notes][text]
 - [Standards][standards]
 - [Calendar][calendar]
 
@@ -26,6 +25,9 @@ description: "Calculus III - 2017 Summer"
     * Mon-Fri 4:15-4:45pm
 * Instructor Information
     * [Prof. S. Clontz][about]
+* Final Exam
+    * Wednesday, July 26, 3:30pm-5:30pm
+        - (The 3pm timeslot listed on the [university website](http://www.southalabama.edu/departments/registrar/finalexamschedule-summer.html).)
 
 
 ## Course Description
@@ -45,11 +47,12 @@ calculus.
 
 ## Textbook and Resources
 
-Lecture notes and suggested homework
-for this course will be available at no cost at
-[prof.clontz.org/resources/calculus-3][text]. Students are welcome to use
+Lecture notes
+for this course will be available at no cost on the class website.
+Students are welcome to use
 *University Calculus: Early Transcendentals (3rd Ed)* or any other textbook
-as a supplemental resource, but it is not required.
+as a supplemental resource (in particular, for optional homework),
+but it is not required.
 
 
 ## Mastering Standards
