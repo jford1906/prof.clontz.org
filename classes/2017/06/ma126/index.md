@@ -26,6 +26,9 @@ description: "Calculus II - 2017 Summer"
     * Tue-Fri 8:10-8:40am
 * Instructor Information
     * [Prof. S. Clontz][about]
+* Final Exam
+    * Wednesday, July 26, 8:00am-10:00am
+        - (The 8am timeslot listed on the [university website](http://www.southalabama.edu/departments/registrar/finalexamschedule-summer.html).)
 
 
 ## Course Description
@@ -63,20 +66,39 @@ to class.
 ## Standards
 
 The main goal of this course is for students to **master** the
-**Core and Supporting Standards** for the course.
+**Core and Supporting Standards** for the course by earning
+**✓** marks for each standard throughout the semester.
 A list of these standards is available on the
 [Standards page][standards].
 
-To earn the opportunity to demonstrate mastery of these standards
-to the instructor, students are expected to collect
-**Attempt Points (AP)** by participating in class.
+
+
+
+## Grade Assignments
+
+Grades are assigned based on students' mastery of the Core and Supporting
+Standards. This is calculated by adding up to **2** earned **✓** marks
+for each of the sixteen Core Standards,
+and up to **1** earned **✓** mark for each of the sixteen
+Supporting Standards, for a total of **48** possible **✓** marks.
+
+* **A**:
+  * At least **46/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **16/16** Core Standards.
+* **B**:
+  * At least **38/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **14/16** Core Standards.
+* **C**:
+  * At least **30/48** **✓** marks have been earned.
+  * At least one **✓** mark has been earned for **12/16** Core Standards.
+* **D**:
+  * At least **24/48** **✓** marks have been earned.
 
 
 ## Team Formation
 
 **Teams** of 4-6 students will be formed based upon a survey
-of students' academic interests and abilities. Each student completing
-this survey will earn Attempt Points.
+of students' academic interests and abilities.
 Members of each Team will collaborate on quizzes and activities
 throughout the semester.
 
@@ -107,11 +129,11 @@ found.
 On days without an IRQ/TRQ, the instructor will assign **Activities**
 to be completed as a Team during the last 60 minutes of class.
 
-### Awarding AP
+### Attempt Points
 
-Each week, the instructor will award AP to each student
+Each week, the instructor will award **Attempt Points (AP)** to each student
 based on a qualitative assessment of that student's participation during
-quizzes and activities. If necessary,
+the previous week. If necessary,
 the instructor will solicit survey feedback
 from the class to make that determination quantitatively instead;
 if so, participation on the survey will be required to earn that week's AP.
@@ -157,29 +179,6 @@ Students may improve **★** marks to **✓** marks as follows.
   request any necessary clarification or minor corrections during the attempt).
 * For Final Exercises, **★** marks are automatically converted to **✓** marks
   at a cost of 10AP per each conversion.
-
-
-
-
-## Grade Assignments
-
-Grades are assigned based on students' mastery of the Core and Supporting
-Standards. This is calculated by adding up to **2** earned **✓** marks for each
-of the sixteen Core Standards,
-and up to **1** earned **✓** mark for each of the sixteen
-Supporting Standards, for a total of **48** possible **✓** marks.
-
-* **A**:
-    * At least **46/48** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **16/16** Core Standards.
-* **B**:
-    * At least **38/48** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **14/16** Core Standards.
-* **C**:
-    * At least **30/48** **✓** marks have been earned.
-    * At least one **✓** mark has been earned for **12/16** Core Standards.
-* **D**:
-    * At least **24/48** **✓** marks have been earned.
 
 
 
