@@ -20,7 +20,7 @@ description: "Calculus III - 2017 Summer"
 * Times:
     * Mon-Fri 3:00pm-4:15pm
 * Room:
-    * ILB 370
+    * HUMB 114
 * Office Hours
     * Mon-Fri 4:15-4:45pm
 * Instructor Information
