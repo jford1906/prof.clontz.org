@@ -17,23 +17,23 @@ quickly material is covered in lecture.
     - *Memorial Day holiday*
 - Tue May 30
     - **Orientation**
-    - [S01: 3DSpace.](../standards/s01)
+    - [S01: 3DSpace.](../standards/s01/)
 - Wed May 31
-    - [S01: 3DSpace.](../standards/s01)
-    - [S02: DotProd.](../standards/s02)
+    - [S01: 3DSpace.](../standards/s01/)
+    - [S02: DotProd.](../standards/s02/)
 - Thu Jun 01
-    - [S02: DotProd.](../standards/s02)
-    - [S03: CrossProd.](../standards/s03)
+    - [S02: DotProd.](../standards/s02/)
+    - [S03: CrossProd.](../standards/s03/)
 - Fri Jun 02
-    - [S03: CrossProd.](../standards/s03)
-    - [C01: SurfaceEQ.](../standards/c01)
+    - [S03: CrossProd.](../standards/s03/)
+    - [C01: SurfaceEQ.](../standards/c01/)
 
 ## Week 2
 
 - Mon Jun 05
-    - [C01: SurfaceEQ.](../standards/c01)
+    - [C01: SurfaceEQ.](../standards/c01/)
 - Tue Jun 06
-    - C02: VectFunc.
+    - [C02: VectFunc.](../standards/c02/)
 - Wed Jun 07
     - C03: VectCalc.
 - Thu Jun 08

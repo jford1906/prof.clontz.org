@@ -8,10 +8,10 @@ At the end of the course, each student should be able to...
 
 ## Core Standards
 
-- [**C01: SurfaceEQ.**](c01)
+- [**C01: SurfaceEQ.**](c01/)
   Identify and sketch surfaces in three-dimensional Euclidean space.
-- **C02: VectFunc.**
-  Model curves in three-dimensional Euclidean space with vector functions.
+- [**C02: VectFunc.**](c02/)
+  Model curves in Euclidean space with vector functions.
 - **C03: VectCalc.**
   Compute and apply vector function limits, derivatives, and integrals.
 - **C04: VectFuncSTNB.**
@@ -37,11 +37,11 @@ At the end of the course, each student should be able to...
 
 ## Supporting Standards
 
-- [**S01: 3DSpace.**](s01)
-  Plot and analyze points and vectors in three-dimensional Euclidean space.
-- [**S02: DotProd.**](s02)
+- [**S01: 3DSpace.**](s01/)
+  Plot and analyze points and vectors in Euclidean space.
+- [**S02: DotProd.**](s02/)
   Compute and apply the dot product of two vectors.
-- [**S03: CrossProd.**](s03)
+- [**S03: CrossProd.**](s03/)
   Compute and apply the cross product of two vectors.
 - **S04: Kinematics.**
   Compute and apply position, velocity, and acceleration vector functions.
