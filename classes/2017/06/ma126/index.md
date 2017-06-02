@@ -9,6 +9,7 @@ description: "Calculus II - 2017 Summer"
 - [Lectures and Notes][text]
 - [Standards][standards]
 - [Calendar][calendar]
+- [**★** Reattempt Form](pdf/star-reattempt.pdf)
 
 ---
 
