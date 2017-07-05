@@ -1,20 +1,20 @@
 # Site settings
-title: Professor Ford
-short-title: Prof. Clontz
+title: Jeff Ford's Course Webpages
+short-title: Prof. Ford
 header-img: "/assets/img/home-bg.jpg"
-email: sclontz@southalabama.edu
-description: "Assistant Professor of Mathematics at the University of South Alabama"
+email: jford@gustavus.edu
+description: "Visiting Instructor, Department of Mathematics, Computer Science, and Statistics, Gustavus Adolphus College
 baseurl: ""
-url: "http://prof.clontz.org"
-twitter_username: StevenXClontz
-github_username:  StevenClontz
+url: "http://jford.org"
+#twitter_username: StevenXClontz
+github_username:  jford1906
 facebook_username:
 navbar-links:
   - title: About
     url:   /about/
   - title: Classes
     url:   /classes/
-  - title: Resources
+  - title: Research
     url:   /resources/
 
 # Build settings
